@@ -9,7 +9,8 @@
   "GemFrequencyGroup_ChestT2": {
     "_frequencies": [
       "GemFrequency_Rare",
-      "GemFrequency_Epic"
+      "GemFrequency_Epic",
+      "GemFrequency_Legendary"
     ]
   },
   "GemFrequencyGroup_ChestT3": {

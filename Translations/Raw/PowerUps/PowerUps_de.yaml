@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: de
-  m_SharedData: {fileID: 11400000, guid: 36dc94b2ac58f714da48f87edccc3e54, type: 2}
+  m_SharedData: {fileID: 11400000, guid: deb67305adf96fd44ad6318b9a627ac6, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -267,6 +267,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 225046963168468992
+    m_Localized: RISIKO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 225046963168468994
+    m_Localized: Gegner-LP aktuell um {HealthValue:N0}% erhöht, Schaden um {DamageValue:N0}% erhöht.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 4485588580307304467
   references:
     version: 2
     RefIds:
@@ -304,4 +315,5 @@ MonoBehaviour:
         - id: 43555440361025536
         - id: 96079886660087808
         - id: 170475265769549824
+        - id: 225046963168468994
 

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: it
-  m_SharedData: {fileID: 11400000, guid: da26dbe70fa206544a1ef15e3692da6c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -178,6 +178,51 @@ MonoBehaviour:
         Array: []
   - m_Id: 5409240946401286
     m_Localized: Un ponte dall'aspetto innocente e dal nome oscuro. Cosa mai potrà andar storto?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120258600960
+    m_Localized: Moongolow
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738304
+    m_Localized: Prologo di Moongolow
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738305
+    m_Localized: Qualcosa attende sotto il pelo del mare rischiarato dalla luna...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738306
+    m_Localized: Mistero al chiaro di luna
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738307
+    m_Localized: Camera sommersa
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738308
+    m_Localized: Cosa si cela sotto le onde? Un mero incontro con un PNG o forse un'anteprima preparata in fretta e furia che preannuncia futuri scenari?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738309
+    m_Localized: Al di sotto della risacca, uno sconosciuto attende i Crawler più coraggiosi. Ma è bagnato fradicio, non dimenticare di portare un asciugamano.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738310
+    m_Localized: Moongolow
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738311
+    m_Localized: Quando la luna risplende alta, le rovine di una città inghiottita dal mare tornano in superficie, recando con sé misteri e ricchezze.
     m_Metadata:
       m_Items:
         Array: []

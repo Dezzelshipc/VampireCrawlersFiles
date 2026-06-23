@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: de
-  m_SharedData: {fileID: 11400000, guid: 8d6b065a4bd7a0d4cb0c54096e944c85, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e1ba060edadf0744aad16c0cca5e1b7d, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -1826,6 +1826,43 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 2833696724673101826
+  - m_Id: 210570225113837568
+    m_Localized: Verhindert mit hoher Wahrscheinlichkeit eine gegnerische Aktion.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210570225151586304
+    m_Localized: Verhindert mit hoher Wahrscheinlichkeit {ActionValue:N0} gegnerische Aktionen.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101826
+  - m_Id: 210600141054226432
+    m_Localized: '{:color(Keyword):Kombobrecher}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101826
+  - m_Id: 210600141054226433
+    m_Localized: Die Karte profitiert immer von der Kombo, setzt sie aber auch zurück.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226434
+    m_Localized: Setzt die Kombo zurück, profitiert aber immer vom Multiplikator.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226435
+    m_Localized: Profitiert vom Multiplikator und beendet die Kombo.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 219562269966544896
+    m_Localized: Löst alle aktiven Crawler-Fähigkeiten aus.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -2070,4 +2107,6 @@ MonoBehaviour:
         - id: 191747417810395136
         - id: 191747417848143872
         - id: 195294087462465536
+        - id: 210570225151586304
+        - id: 210600141054226432
 

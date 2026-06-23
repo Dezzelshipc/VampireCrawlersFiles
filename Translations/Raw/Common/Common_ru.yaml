@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ru
-  m_SharedData: {fileID: 11400000, guid: 626e4250d04bc15419331ff5e5ed987d, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 40bfabc463cbc8047a75e6baa75aa46a, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -171,12 +171,35 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 109339954146959360
-    m_Localized: Incompatible Save Data
+    m_Localized: Несовместимые данные сохранения
     m_Metadata:
       m_Items:
         Array: []
   - m_Id: 109339954184708096
-    m_Localized: Full game save data has been detected, but this is the Demo of Vampire Crawlers. Please exit and run the full game to use this data.
+    m_Localized: Обнаружены данные сохранения для полной версии игры, но сейчас запущена демоверсия Vampire Crawlers. Выйдите из демоверсии и запустите полную версию игры, чтобы их использовать.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 127095948949139456
+    m_Localized: 'Выйти на рабочий стол? \nПоследнее сохранение: {TimeStamp:f}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 7336426704161210482
+  - m_Id: 127095948970110976
+    m_Localized: 'Выйти из {GlobalKeywords.VampireCrawlers}? \nПоследнее сохранение: {TimeStamp:f}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 7336426704161210482
+  - m_Id: 127095948970110977
+    m_Localized: 'Выйти в главное меню? \nПоследнее сохранение: {TimeStamp:f}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 7336426704161210482
+  - m_Id: 127095948970110978
+    m_Localized: Выйти в главное меню
     m_Metadata:
       m_Items:
         Array: []
@@ -201,4 +224,7 @@ MonoBehaviour:
         - id: 50729413791178752
         - id: 57642285741891584
         - id: 57642285800611840
+        - id: 127095948949139456
+        - id: 127095948970110976
+        - id: 127095948970110977
 

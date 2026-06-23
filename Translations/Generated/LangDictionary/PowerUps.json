@@ -600,5 +600,61 @@
     "ko": "표적을 추가로 타격.",
     "zh-Hant": "多次打擊目標。",
     "zh-Hans": "额外击中目标。"
+  },
+  "RISK_STAT": {
+    "en": "Risk",
+    "fr": null,
+    "it": null,
+    "de": null,
+    "es": null,
+    "pt-BR": null,
+    "pl": null,
+    "ru": null,
+    "ja": null,
+    "ko": null,
+    "zh-Hant": null,
+    "zh-Hans": null
+  },
+  "RISK_CAPS": {
+    "en": "RISK",
+    "fr": "RISQUE",
+    "it": "RISCHIO",
+    "de": "RISIKO",
+    "es": "RIESGO",
+    "pt-BR": "RISCO",
+    "pl": "RYZYKO",
+    "ru": "РИСК",
+    "ja": "リスク",
+    "ko": "위험",
+    "zh-Hant": "風險",
+    "zh-Hans": "风险"
+  },
+  "RISK_DESC": {
+    "en": "Increased enemy health and damage.",
+    "fr": null,
+    "it": null,
+    "de": null,
+    "es": null,
+    "pt-BR": null,
+    "pl": null,
+    "ru": null,
+    "ja": null,
+    "ko": null,
+    "zh-Hant": null,
+    "zh-Hans": null
+  },
+  "RISK_DETAIL": {
+    "en": "Enemy Health is currently increased by {HealthValue:N0}% and Damage by {DamageValue:N0}%.",
+    "fr": "La santé des ennemis est actuellement augmentée de {HealthValue:N0} % et leurs dégâts de {DamageValue:N0} %.",
+    "it": "Al momento, la Salute dei nemici è aumentata di un {HealthValue:N0}% e i Danni di un {DamageValue:N0}%.",
+    "de": "Gegner-LP aktuell um {HealthValue:N0}% erhöht, Schaden um {DamageValue:N0}% erhöht.",
+    "es": "La salud de los enemigos aumenta un {HealthValue:N0} % actualmente y el daño, un {DamageValue:N0} %.",
+    "pt-BR": "Vida do inimigo aumenta em {HealthValue:N0}% e dano em {DamageValue:N0}%.",
+    "pl": "Zdrowie wrogów jest obecnie zwiększone o {HealthValue:N0}%, a obrażenia o {DamageValue:N0}%.",
+    "ru": "Здоровье врагов сейчас увеличивается на {HealthValue:N0}%, а урон — на {DamageValue:N0}%.",
+    "ja": "敵HPが現在+{HealthValue:N0}%、そしてダメージ+{DamageValue:N0}%。",
+    "ko": "현재 적의 체력이 {HealthValue:N0}%, 피해가 {DamageValue:N0}% 증가했습니다.",
+    "zh-Hant": "敵人的生命值目前有提高了 {HealthValue:N0}%，傷害則是提高了 {DamageValue:N0}%。",
+    "zh-Hans": "敌人当前血量+{HealthValue:N0}%，伤害+{DamageValue:N0}%。"
   }
 }

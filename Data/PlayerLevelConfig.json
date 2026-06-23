@@ -70,13 +70,6 @@
         "y": 50
       },
       "XpIncreasePerLevel": 28
-    },
-    {
-      "Range": {
-        "x": 50,
-        "y": 1000000
-      },
-      "XpIncreasePerLevel": 30
     }
   ]
 }

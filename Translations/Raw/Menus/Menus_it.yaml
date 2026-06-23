@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: it
-  m_SharedData: {fileID: 11400000, guid: 6974a549237cf8d4c85f8644b7bb71f5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: d4ccb0554ccdaa747a346f153e8d2595, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -251,7 +251,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 402859882020864
-    m_Localized: "Aumenta la tua {GlobalKeywords.Luck}\nper avere la possibilità di ottenere quattro scelte"
+    m_Localized: Aumenta la tua {GlobalKeywords.Luck} per avere la possibilità di ottenere quattro scelte
     m_Metadata:
       m_Items:
         Array: []
@@ -1805,6 +1805,190 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 205459670092881920
+    m_Localized: 'Migliore: {furthestFloor}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365326
+  - m_Id: 213505174802407424
+    m_Localized: '{dungeonName}: senza fine'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365326
+  - m_Id: 205456101243494400
+    m_Localized: Senza fine
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679467786240
+    m_Localized: Aggiungi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679497146368
+    m_Localized: Gioieijere disabilitato
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213166942531346432
+    m_Localized: 'evo:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248670867456
+    m_Localized: Vai al negozio!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810496
+    m_Localized: Disponibile!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810497
+    m_Localized: Pagina del negozio
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810498
+    m_Localized: Compralo ora
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810499
+    m_Localized: Ordina
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810500
+    m_Localized: Ordina per
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810501
+    m_Localized: Tocca il pulsante Ordina per organizzare la tua mano o tienilo premuto per passare alle impostazioni per l'ordinamento
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738308358144
+    m_Localized: 'Nota: puoi modificare il metodo d''ordinamento tenendo premuto il pulsante Ordina anziché toccarlo'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738316746752
+    m_Localized: 'Nota: modifica il metodo d''ordinamento tenendo premuto il pulsante Ordina anziché toccarlo'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 215318707187998720
+    m_Localized: Gioca carta
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488358301696
+    m_Localized: 'Nota bene: aumenta la tua Fortuna per maggiori probabilità di trovare gemme più rare quando sali di livello.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633344
+    m_Localized: Salva ed esci
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633345
+    m_Localized: Nuovo record
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521574731776
+    m_Localized: Categoria Prec./Succ.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521616674816
+    m_Localized: Carta Prec./Succ.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502103601152
+    m_Localized: Salva ed esci al desktop
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502124572672
+    m_Localized: Attiva/Disattiva {GlobalKeywords.Crawlers} / {GlobalKeywords.Arcana}
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365326
+  - m_Id: 221133792394424320
+    m_Localized: Impostazioni suggerimenti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590144
+    m_Localized: Mostra tutti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590145
+    m_Localized: Nessuno
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590146
+    m_Localized: '{GlobalKeywords.Crawlers}/{GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365326
+  - m_Id: 221133792419590147
+    m_Localized: Solo carte
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221394874886250496
+    m_Localized: Menu principale
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545463857152
+    m_Localized: Suggerimenti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634368
+    m_Localized: Dettagli
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634369
+    m_Localized: Tutti
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634370
+    m_Localized: Carte
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634371
+    m_Localized: Disattivati
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223305806126243840
+    m_Localized: Pulsante unico per ordinare le carte
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223975027587887104
+    m_Localized: Default
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -1896,4 +2080,8 @@ MonoBehaviour:
         - id: 157851068723572740
         - id: 187718176982642696
         - id: 190734195120615436
+        - id: 205459670092881920
+        - id: 213505174802407424
+        - id: 221060502124572672
+        - id: 221133792419590146
 

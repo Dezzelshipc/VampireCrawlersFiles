@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hant
-  m_SharedData: {fileID: 11400000, guid: da26dbe70fa206544a1ef15e3692da6c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -178,6 +178,51 @@ MonoBehaviour:
         Array: []
   - m_Id: 5409240946401286
     m_Localized: 一座看似無害，名字卻很嚇人的橋。啊呀，走這座橋肯定不會出事的！安啦！
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120258600960
+    m_Localized: 昇月城
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738304
+    m_Localized: 昇月城（序章）
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738305
+    m_Localized: 在月光閃爍的海平面之下，似乎有著一股不安躁動著的暗潮洶湧⋯⋯
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738306
+    m_Localized: 月下謎團
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738307
+    m_Localized: 沉沒密室
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738308
+    m_Localized: 在一波又一波的浪潮下，究竟藏著什麼樣的秘密呢？是一場與 NPC 的邂逅，還是製作團隊爆肝趕出來的未來內容藍圖呢？
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738309
+    m_Localized: 有位陌生人於海底靜靜地等候著，期待在潮退之時，能夠與最勇敢的冒險者相會⋯不過啊，畢竟是海底嘛，所以可別忘了要多帶幾條毛巾喔～
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738310
+    m_Localized: 昇月城
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738311
+    m_Localized: 據他人所言，當年迎來了滿月，而大海也就於轉瞬之間吞噬了這座城市⋯感覺這裡深藏著某種未知的奧祕，是不是該該去一探究竟啦，各位？
     m_Metadata:
       m_Items:
         Array: []

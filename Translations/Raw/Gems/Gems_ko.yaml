@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: a9cc01bc968b58c49a61e7896f441eb6, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 6588b66b7ff374e43b8e9a2f51fc8046, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -598,6 +598,36 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 4841317358791295119
+  - m_Id: 76484134191443968
+    m_Localized: 적이 죽으면 치유됩니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804096
+    m_Localized: 적이 죽으면 코인을 얻습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804097
+    m_Localized: 콤보 브레이커
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804098
+    m_Localized: 이 카드는 항상 콤보를 통해 이득을 보지만, 콤보를 끝낼 수도 있습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804099
+    m_Localized: 콤보를 종료시키지만 항상 배율로 이점을 얻습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76512690875346944
+    m_Localized: 콤보를 소모하여 배율 효과를 얻습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:

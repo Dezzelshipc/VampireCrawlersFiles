@@ -514,7 +514,7 @@
     "ru": "Создаёт {Value:p:1 карту «{CardName}»|карты «{CardName}» ({:N0})}",
     "ja": "{Value:p:{CardName}カードを1枚生成|{CardName}カードを{:N0}枚生成}",
     "ko": "{Value:p:1 {CardName} 카드|{:N0} {CardName} 카드} 생성",
-    "zh-Hant": "創建 {Value:p:1 張{CardName}卡牌|{0:N0} 張{CardName}卡牌}",
+    "zh-Hant": "創建 {Value:p:1 張{CardName}卡牌|{:N0} 張{CardName}卡牌}",
     "zh-Hans": "生成{Value:p:1张{CardName}牌|{:N0}张{CardName}牌}"
   },
   "MODIFY_CARD_COST_EFFECT": {
@@ -584,7 +584,7 @@
     "ru": "Останавливает до {Count:p:1 врага|{:N0} врагов}, используя {EnemyTypeToTarget}",
     "ja": "{EnemyTypeToTarget}で{Count:p:敵を1体|敵を{:N0}体}まで止める",
     "ko": "{EnemyTypeToTarget}을 사용하는 적 {Count:p:1마리|{:N0}마리 }까지 행동 중지",
-    "zh-Hant": "阻止最多 {Count:p:1 名敵人|{0:N0} 名敵人}做出{EnemyTypeToTarget}",
+    "zh-Hant": "阻止最多 {Count:p:1 名敵人|{:N0} 名敵人}做出{EnemyTypeToTarget}",
     "zh-Hans": "阻止至多{Count:p:1个敌人|{:N0}个敌人}使用{EnemyTypeToTarget}"
   },
   "REMOVE_DAMAGE_INTENT_EFFECT": {
@@ -827,7 +827,7 @@
   },
   "FCC_PIERCE": {
     "en": "Pierce {ActionValue:p:1 enemy|{:N0} enemies}",
-    "fr": "Perce {Plural:p:1 ennemi|{:N0} ennemis}",
+    "fr": "Perce {ActionValue:p:1 ennemi|{:N0} ennemis}",
     "it": "Trapassi {ActionValue:p:un nemico|{:N0} nemici}",
     "de": "Du durchdringst {ActionValue:p:einen Gegner|{:N0} Gegner}",
     "es": "Perforas a {ActionValue:p:1 enemigo|{:N0} enemigos}",
@@ -836,7 +836,7 @@
     "ru": "Пробивает {ActionValue:p:1 врага|{:N0} врагов}",
     "ja": "{ActionValue:p:敵1体|敵{:N0}体}を貫通させる",
     "ko": "{ActionValue:p:적 1마리|적 {:N0}마리} 관통",
-    "zh-Hant": "穿透 {ActionValue:p:1 名敵人|{0:N0} 名敵人}",
+    "zh-Hant": "穿透 {ActionValue:p:1 名敵人|{:N0} 名敵人}",
     "zh-Hans": "穿透{ActionValue:p:1个敌人|{:N0}个敌人}"
   },
   "FCC_DISCARD": {
@@ -850,7 +850,7 @@
     "ru": "Сбросьте {ActionValue:p:1 карту|карты ({:N0})}",
     "ja": "{ActionValue:p:カード1枚|カード{:N0}枚}を捨てる",
     "ko": "{ActionValue:p:카드 1장 |카드 {:N0}장} 버림",
-    "zh-Hant": "棄掉 {ActionValue:p:1 張手牌|{0:N0} 張手牌}",
+    "zh-Hant": "棄掉 {ActionValue:p:1 張手牌|{:N0} 張手牌}",
     "zh-Hans": "弃置{ActionValue:p:1张牌|{:N0}张牌}"
   },
   "FCC_DRAW": {
@@ -864,7 +864,7 @@
     "ru": "Вытяните {ActionValue:p:1 карту|карты ({:N0})}",
     "ja": "{ActionValue:p:カード1枚|カード{:N0}枚}を引く",
     "ko": "{ActionValue:p:카드 1장 |카드 {:N0}장} 뽑기",
-    "zh-Hant": "抽取 {ActionValue:p:1 張卡牌|{0:N0} 張卡牌}",
+    "zh-Hant": "抽取 {ActionValue:p:1 張卡牌|{:N0} 張卡牌}",
     "zh-Hans": "抽取{ActionValue:p:1张牌|{:N0}张牌}"
   },
   "FCC_DURATION": {
@@ -1033,7 +1033,7 @@
     "ja": "カードをプレイする。",
     "ko": "카드를 사용합니다.",
     "zh-Hant": "打出卡牌。",
-    "zh-Hans": null
+    "zh-Hans": "打出卡牌。"
   },
   "FCC_RECOVERY": {
     "en": "Heal {ActionValue:N0} after encounter",
@@ -1051,7 +1051,7 @@
   },
   "FCC_REMOVE_INTENT": {
     "en": "Prevent {ActionValue:p:1 enemy|{:N0} enemies} from attacking",
-    "fr": "Empêche {Plural:p:1 ennemi|{:N0} ennemis} d'attaquer",
+    "fr": "Empêche {ActionValue:p:1 ennemi|{:N0} ennemis} d'attaquer",
     "it": "Impedisci a {ActionValue:p:un nemico|{:N0} nemici} di attaccare",
     "de": "Du hältst {ActionValue:p:einen Gegner|{:N0} Gegner} vom Angreifen ab",
     "es": "Evitas que {ActionValue:p:1 enemigo ataque|{:N0} enemigos ataquen}.",
@@ -1060,7 +1060,7 @@
     "ru": "Не даёт {ActionValue:p:1 врагу|{:N0} врагам} атаковать",
     "ja": "{ActionValue:p:敵1体|敵{:N0}体}の攻撃を阻止する",
     "ko": "{ActionValue:p:적 1마리|적 {:N0}마리}의 공격 방지",
-    "zh-Hant": "阻止 {ActionValue:p:1 名敵人|{0:N0} 名敵人}發起攻擊",
+    "zh-Hant": "阻止 {ActionValue:p:1 名敵人|{:N0} 名敵人}發起攻擊",
     "zh-Hans": "阻止{ActionValue:p:1个敌人|{:N0}个敌人}攻击"
   },
   "FCC_RESTORE": {
@@ -1339,7 +1339,7 @@
     "pl": "Zwiększ liczbę kart na ręce o {ActionValue:N0}",
     "ru": "Повышает характеристику «{GlobalKeywords.Handsize}» на {ActionValue:N0}",
     "ja": "{GlobalKeywords.Handsize}が{ActionValue:N0}増加",
-    "ko": "{GlobalKeywords.Handsize} {0:combo:} 증가",
+    "ko": "{GlobalKeywords.Handsize} {ActionValue:N0} 증가",
     "zh-Hant": "使{GlobalKeywords.Handsize}增加 {ActionValue:N0}",
     "zh-Hans": "{GlobalKeywords.Handsize}+{ActionValue:N0}"
   },
@@ -3472,7 +3472,7 @@
     "zh-Hans": "{:color(Keyword):法力回赠}"
   },
   "ARCANE_KEYWORD_DESC": {
-    "en": "If this card would reduce Mana to 0, recieve double Mana instead.",
+    "en": "If this card would reduce Mana to 0, receive double Mana instead.",
     "fr": "Si cette carte réduit le Mana à 0, vous recevez le double de Mana à la place.",
     "it": "Se questa carta riduce a 0 il mana, ne guadagni il doppio invece.",
     "de": "Würde diese Karte dein letztes Mana kosten, erhältst du stattdessen doppeltes Mana.",
@@ -4756,7 +4756,7 @@
     "ru": "Шанс добавить {ActionValue:p:карту с маной|{:N0} карты с маной|{:N0} карт с маной} вам в руку.",
     "ja": "{ActionValue:p:マナカード1枚|マナカード{:N0}枚}を {GlobalKeywords.Hand}に加える可能性あり。",
     "ko": "{ActionValue:p:마나 카드 1장|마나 카드 {:N0}장}을 내 {GlobalKeywords.Hand}에 추가합니다.",
-    "zh-Hant": "機率將 {ActionValue:p:1 張法力卡|{0:N0} 張法力卡} 加入你的 {GlobalKeywords.Hand}。",
+    "zh-Hant": "機率將 {ActionValue:p:1 張法力卡|{:N0} 張法力卡} 加入你的 {GlobalKeywords.Hand}。",
     "zh-Hans": "有几率向你的{GlobalKeywords.Hand}中添加{ActionValue:p:1张法力牌|{:N0}张法力牌}。"
   },
   "DRAIN_KEYWORD": {
@@ -4912,5 +4912,103 @@
     "ko": "{:color(Keyword):X {GlobalKeywords.Mana}}",
     "zh-Hant": "{:color(Keyword):x {GlobalKeywords.Mana}}",
     "zh-Hans": "{:color(Keyword):X {GlobalKeywords.Mana}}"
+  },
+  "KNOCKBACK_GARLIC_KEYWORD_DESC_NEW": {
+    "en": "High chance of preventing a single enemy action.",
+    "fr": "Grandes chances d'empêcher une action ennemie.",
+    "it": "Elevata probabilità di impedire una singola azione nemica.",
+    "de": "Verhindert mit hoher Wahrscheinlichkeit eine gegnerische Aktion.",
+    "es": "Gran probabilidad de evitar una sola acción enemiga.",
+    "pt-BR": "Chance alta de impedir uma única ação de inimigo.",
+    "pl": "Wysoka szansa na powstrzymanie pojedynczej akcji wroga.",
+    "ru": "Высокий шанс предотвратить одно вражеское действие.",
+    "ja": "高確率で敵のアクションを1回防ぐ。",
+    "ko": "적의 활동을 1회 막을 확률이 높습니다.",
+    "zh-Hant": "高機率阻斷 1 次敵人的行動。",
+    "zh-Hans": "有较高几率阻止一次敌方行动。"
+  },
+  "KNOCKBACK_SOUL_EATER_KEYWORD_DESC_NEW": {
+    "en": "High chance of preventing {ActionValue:N0} enemy actions.",
+    "fr": "Grandes chances d'empêcher {ActionValue:N0} actions ennemies.",
+    "it": "Elevata probabilità di impedire {ActionValue:N0} azioni nemiche.",
+    "de": "Verhindert mit hoher Wahrscheinlichkeit {ActionValue:N0} gegnerische Aktionen.",
+    "es": "Gran probabilidad de evitar {ActionValue:N0} acciones enemigas.",
+    "pt-BR": "Chance alta de impedir {ActionValue:N0} ações de inimigos.",
+    "pl": "Wysoka szansa na powstrzymanie {ActionValue:N0} akcji wroga.",
+    "ru": "Высокий шанс предотвратить вражеское действие: {ActionValue:N0}.",
+    "ja": "高確率で敵のアクション{ActionValue:N0}を防ぐ。",
+    "ko": "적의 공격을 {ActionValue:N0}회 막을 확률이 높습니다.",
+    "zh-Hant": "高機率阻斷  {ActionValue:N0}  次敵人的行動。",
+    "zh-Hans": "有较高几率阻止{ActionValue:N0}次敌方行动。"
+  },
+  "DISCHARGE_KEYWORD_NEW": {
+    "en": "{:color(Keyword):Combo Breaker}",
+    "fr": "{:color(Keyword):Brise-combo}",
+    "it": "{:color(Keyword):Spaccacombo}",
+    "de": "{:color(Keyword):Kombobrecher}",
+    "es": "{:color(Keyword):Rompecombos}",
+    "pt-BR": "{:color(Keyword):Quebra-combo}",
+    "pl": "{:color(Keyword):Łamacz combo}",
+    "ru": "{:color(Keyword):Разрушитель комбо}",
+    "ja": "{:color(Keyword):コンボブレイカー}",
+    "ko": "{:color(Keyword):콤보 브레이커}",
+    "zh-Hant": "{:color(Keyword):連擊終結者}",
+    "zh-Hans": "{:color(Keyword):连击终结者}"
+  },
+  "DISCHARGE_KEYWORD_DESC_NEW": {
+    "en": "This card always benefits from combo, but will end it too.",
+    "fr": "Cette carte bénéficie toujours des combos, mais elle y mettra également un terme.",
+    "it": "Questa carta beneficia sempre delle combo, ma le interrompe.",
+    "de": "Die Karte profitiert immer von der Kombo, setzt sie aber auch zurück.",
+    "es": "Esta carta siempre se beneficia de los combos, pero también los interrumpirá.",
+    "pt-BR": "Esta carta sempre se beneficia de um combo, mas também pode acabar com ele.",
+    "pl": "Ta karta zawsze zyskuje na combo, ale również je przerywa.",
+    "ru": "Эта карта всегда использует множитель комбо, но также и завершает его.",
+    "ja": "このカードは必ずコンボの恩恵を受けるが、同時にコンボを終わらせてしまう。",
+    "ko": "이 카드로 콤보의 효과를 항상 누리지만, 콤보를 끝낼 수도 있습니다.",
+    "zh-Hant": "這張卡牌在任何情況下都能夠獲得連擊加成的效果，但也會終結掉當下的連擊",
+    "zh-Hans": "此牌始终会获得连击增益，但也会终结连击。"
+  },
+  "DISCHARGE_KEYWORD_DESC_NEW2": {
+    "en": "Ends combo but always benefits from the multiplier.",
+    "fr": "Met un terme au combo, mais bénéficie constamment du multiplicateur.",
+    "it": "Interrompe le combo ma beneficia sempre del moltiplicatore.",
+    "de": "Setzt die Kombo zurück, profitiert aber immer vom Multiplikator.",
+    "es": "Interrumpe los combos, pero siempre se beneficia del multiplicador.",
+    "pt-BR": "Acaba com combos, mas sempre se beneficia do multiplicador.",
+    "pl": "Przerywa combo, ale zawsze korzysta z mnożnika.",
+    "ru": "Завершает комбо, но всегда использует его множитель.",
+    "ja": "コンボは終了するが、常に倍率の恩恵を受ける。",
+    "ko": "콤보를 종료시키지만 항상 배율로 이점을 얻습니다.",
+    "zh-Hant": "會終結連擊，但一定能夠吃到連擊的倍率加成",
+    "zh-Hans": "终结连击，但始终会获得倍数增益。"
+  },
+  "DISCHARGE_KEYWORD_DESC_NEW3": {
+    "en": "Consumes the combo to benefit from the multiplier.",
+    "fr": "Consomme le combo afin de bénéficier du multiplicateur.",
+    "it": "Consuma le combo per beneficiare del moltiplicatore.",
+    "de": "Profitiert vom Multiplikator und beendet die Kombo.",
+    "es": "Consume el combo para beneficiarse del multiplicador.",
+    "pt-BR": "Consome o combo para se beneficiar do multiplicador.",
+    "pl": "Zużywa combo, aby skorzystać z mnożnika.",
+    "ru": "Завершает комбо, чтобы использовать его множитель.",
+    "ja": "コンボを発動させて、倍率の恩恵を受ける。",
+    "ko": "콤보를 소모하여 배율 효과를 얻습니다.",
+    "zh-Hant": "犧牲連擊，好藉此獲得倍率加成的效果",
+    "zh-Hans": "通过消耗连击来获得倍数增益。"
+  },
+  "CARD_TYPE_RAINBOW_DESC_NEW": {
+    "en": "Trigger Crawler Abilities of all colors.",
+    "fr": "Active toutes les capacités actives d'explorateur.",
+    "it": "Attivi tutte le abilità attive dei Crawler.",
+    "de": "Löst alle aktiven Crawler-Fähigkeiten aus.",
+    "es": "Activas todas las habilidades de cruzamazmorras activas.",
+    "pt-BR": "Ative todas as habilidades de Rastejante ativas.",
+    "pl": "Uruchom wszystkie aktywne umiejętności odkrywcy.",
+    "ru": "Активируйте все способности активного бродяги.",
+    "ja": "アクティブな全クロウラーアビリティを発動する。",
+    "ko": "활성화된 크롤러의 능력을 모두 발동합니다.",
+    "zh-Hant": "觸發所有啟用中的冒險者能力。",
+    "zh-Hans": "触发所有探索者主动能力。"
   }
 }

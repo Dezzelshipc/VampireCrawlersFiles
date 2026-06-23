@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pl
-  m_SharedData: {fileID: 11400000, guid: daf53a470998575449388396be1b0785, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e9efefa0ee8352b45955b9ef7674228a, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -2370,7 +2370,7 @@ MonoBehaviour:
         Array:
         - rid: 1496553099325603848
   - m_Id: 138926001482575914
-    m_Localized: Zagraj {Achievement.Value:p:kartę|kartę|kartę} {db.Cards.Card_D_3_ClockLancet.Name} {:N0} razy.
+    m_Localized: Zagraj {Achievement.Value:p:kartę|kartę|kartę} {db.Cards.Card_D_3_ClockLancet.Name} {Achievement.Value:N0} razy.
     m_Metadata:
       m_Items:
         Array:
@@ -2864,6 +2864,23 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1496553099325603848
+  - m_Id: 195381509462372352
+    m_Localized: Odblokuj Siódmą trąbę
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195381509508509696
+    m_Localized: Znajdź relikwię {db.relic.RelicConfig_SeventhTrumpet.Name}.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603848
+  - m_Id: 195381509508509697
+    m_Localized: '{db.relic.RelicConfig_SeventhTrumpet.Name}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603848
   references:
     version: 2
     RefIds:
@@ -3270,4 +3287,6 @@ MonoBehaviour:
         - id: 72819373065986048
         - id: 24967580072370176
         - id: 172430218557861888
+        - id: 195381509508509696
+        - id: 195381509508509697
 

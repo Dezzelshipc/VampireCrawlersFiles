@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: de
-  m_SharedData: {fileID: 11400000, guid: da26dbe70fa206544a1ef15e3692da6c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -178,6 +178,51 @@ MonoBehaviour:
         Array: []
   - m_Id: 5409240946401286
     m_Localized: Trotz ihres Namens wirkt die Brücke absolut harmlos. Und was soll schon schiefgehen?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120258600960
+    m_Localized: Moongolow
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738304
+    m_Localized: Moongolow-Prolog
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738305
+    m_Localized: Tief im vom Mondschein erleuchteten Meer rührt sich etwas …
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738306
+    m_Localized: Mondlichtmysterium
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738307
+    m_Localized: Versunkene Kammer
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738308
+    m_Localized: Was wartet tief unter den Wellen? Nur ein NPC oder vielleicht doch eine in aller Eile vorbereitete Vorschau auf zukünftige Inhalte?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738309
+    m_Localized: Tief unter der Tide wartet ein Fremder auf die mutigsten Crawler. Da unten ist es aber sehr nass, also nimm ein Handtuch mit.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738310
+    m_Localized: Moongolow
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738311
+    m_Localized: Es gibt die Legende von einer Stadt, die vom Meer verschluckt wurde, während der Vollmond kaltblütig darüber wachte. Sie beherbergt unbekannte Geheimnisse, und wir sollten sehen, was sich unter ihren Mauern verbirgt.
     m_Metadata:
       m_Items:
         Array: []

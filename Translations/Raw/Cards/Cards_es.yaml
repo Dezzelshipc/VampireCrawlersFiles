@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: es
-  m_SharedData: {fileID: 11400000, guid: 204ec117f042e6d408dbd3e4e7edd874, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 57692f7a1cfa4cd49a597ee46501546b, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -1122,6 +1122,26 @@ MonoBehaviour:
         Array: []
   - m_Id: 192848040609918976
     m_Localized: MissingN0
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211294565786660864
+    m_Localized: Troubler
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211294565824409600
+    m_Localized: Big Troubler
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211294565824409601
+    m_Localized: Pantaleón
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211294565824409602
+    m_Localized: Gran Pantaleón
     m_Metadata:
       m_Items:
         Array: []

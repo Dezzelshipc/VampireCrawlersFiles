@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pl
-  m_SharedData: {fileID: 11400000, guid: 8d6b065a4bd7a0d4cb0c54096e944c85, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e1ba060edadf0744aad16c0cca5e1b7d, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -1862,6 +1862,43 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1496553099325603849
+  - m_Id: 210570225113837568
+    m_Localized: Wysoka szansa na powstrzymanie pojedynczej akcji wroga.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210570225151586304
+    m_Localized: Wysoka szansa na powstrzymanie {ActionValue:N0} akcji wroga.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603849
+  - m_Id: 210600141054226432
+    m_Localized: '{:color(Keyword):Łamacz combo}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603849
+  - m_Id: 210600141054226433
+    m_Localized: Ta karta zawsze zyskuje na combo, ale również je przerywa.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226434
+    m_Localized: Przerywa combo, ale zawsze korzysta z mnożnika.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226435
+    m_Localized: Zużywa combo, aby skorzystać z mnożnika.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 219562269966544896
+    m_Localized: Uruchom wszystkie aktywne umiejętności odkrywcy.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -2085,4 +2122,6 @@ MonoBehaviour:
         - id: 191773626099249152
         - id: 191747417810395136
         - id: 195294087462465536
+        - id: 210570225151586304
+        - id: 210600141054226432
 

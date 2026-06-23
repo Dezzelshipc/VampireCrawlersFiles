@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: de
-  m_SharedData: {fileID: 11400000, guid: 6974a549237cf8d4c85f8644b7bb71f5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: d4ccb0554ccdaa747a346f153e8d2595, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -251,7 +251,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 402859882020864
-    m_Localized: "Erhöhe dein {GlobalKeywords.Luck},\num die Chance auf 4 Wahlmöglichkeiten zu haben."
+    m_Localized: Erhöhe dein {GlobalKeywords.Luck}, um die Chance auf 4 Wahlmöglichkeiten zu haben.
     m_Metadata:
       m_Items:
         Array: []
@@ -791,7 +791,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 96781231948029952
-    m_Localized: Runde
+    m_Localized: Drehen
     m_Metadata:
       m_Items:
         Array: []
@@ -1801,6 +1801,190 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 205459670092881920
+    m_Localized: 'Rekord: {furthestFloor}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101833
+  - m_Id: 213505174802407424
+    m_Localized: '{dungeonName}: Endlos'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101833
+  - m_Id: 205456101243494400
+    m_Localized: Endlos
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679467786240
+    m_Localized: Einladen
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679497146368
+    m_Localized: Juwelier deaktiviert
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213166942531346432
+    m_Localized: 'Verb.:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248670867456
+    m_Localized: Zur Storeseite!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810496
+    m_Localized: Jetzt verfügbar!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810497
+    m_Localized: Storeseite
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810498
+    m_Localized: Jetzt kaufen
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810499
+    m_Localized: Sortieren
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810500
+    m_Localized: Sortieren nach
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810501
+    m_Localized: Drücke auf Sortieren, um deine Hand zu sortieren, oder halte den Button gedrückt, um die Sortierkriterien anzuzeigen.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738308358144
+    m_Localized: 'Hinweis: Du kannst die Sortieroption ändern, indem du Sortieren gedrückt hältst.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738316746752
+    m_Localized: 'Hinweis: Sortieren gedrückt halten, um Sortieroption zu ändern'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 215318707187998720
+    m_Localized: Karte ausspielen
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488358301696
+    m_Localized: 'Hinweis: Erhöhe dein Glück für eine Chance auf seltenere Juwelen bei Levelaufstieg.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633344
+    m_Localized: Speichern und beenden
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633345
+    m_Localized: Neuer Rekord
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521574731776
+    m_Localized: Nä./Vorh. Kategorie
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521616674816
+    m_Localized: Nä./Vorh. Karte
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502103601152
+    m_Localized: Speichern und zum Desktop beenden
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502124572672
+    m_Localized: '{GlobalKeywords.Crawlers}/{GlobalKeywords.Arcana} ein/aus'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101833
+  - m_Id: 221133792394424320
+    m_Localized: Tooltip-Einstellungen
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590144
+    m_Localized: Alle anzeigen
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590145
+    m_Localized: Keine
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590146
+    m_Localized: '{GlobalKeywords.Crawlers}/{GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101833
+  - m_Id: 221133792419590147
+    m_Localized: Nur Karten
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221394874886250496
+    m_Localized: Hauptmenü
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545463857152
+    m_Localized: Tooltips
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634368
+    m_Localized: Popouts
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634369
+    m_Localized: Alle
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634370
+    m_Localized: Karten
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634371
+    m_Localized: Aus
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223305806126243840
+    m_Localized: 'Karten sortieren: Nur ein Button'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223975027587887104
+    m_Localized: Standard
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -1892,4 +2076,8 @@ MonoBehaviour:
         - id: 157851068723572740
         - id: 187718176982642696
         - id: 190734195120615436
+        - id: 205459670092881920
+        - id: 213505174802407424
+        - id: 221060502124572672
+        - id: 221133792419590146
 

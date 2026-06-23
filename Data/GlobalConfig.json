@@ -1,6 +1,5 @@
 {
   "currentDamageDetail": "CurrentDamageDetail",
-  "_totalCoinAmount": "TotalCoinCount",
   "defaultRoomSpringRules": "DefaultSpringRoomGenerationRules",
   "defaultRoomSpringGenerationLayerConfig": "DefaultSpringRoomGenerationConfig",
   "generalCardConfig": {
@@ -53,6 +52,7 @@
   },
   "interactableCardConfig": {
     "dragDetectionThreshold": 125,
+    "cardSelectionDragDetectionThreshold": 20,
     "draggedFollowSpeed": 30,
     "draggedRotationSpeed": 30,
     "draggedRotationAmountDegrees": 3.5,
@@ -409,6 +409,9 @@
     "cardSpacing": 14,
     "defaultCardReorderDelayTime": 0.2
   },
+  "cardSortConfig": {
+    "holdDurationToChangeSortMethod": 0.3
+  },
   "comboPileConfig": {
     "screenShakeAmplitude": 0.1,
     "screenShakeFrequency": 30,
@@ -625,7 +628,8 @@
       "Card_E_LargeBagOfCoins"
     ],
     "BaseGemChance": 15,
-    "LuckScaleFactor": 0.1
+    "LuckScaleFactor": 0.1,
+    "GemLuckCap": 3000
   },
   "treasureChestConfig": {
     "bonusCards": [
@@ -878,6 +882,7 @@
     "maxMapRegenerationAttempts": 5,
     "endTag": "Tag_End",
     "edgeEventOffset": 0.2,
+    "distanceToMovePlayerDuringGeneration": 100000,
     "ambushSpawnChance": 0.01
   },
   "relicSettingsConfig": {
@@ -1069,7 +1074,7 @@
   },
   "gemChoiceModalConfig": {
     "MaxChoices": 5,
-    "LuckChanceModifier": 0.25
+    "LuckChanceModifier": 0.1
   },
   "dungeonEventsConfig": {
     "DefaultEventCameraSettings": {
@@ -1108,7 +1113,8 @@
     "SlotFeeMultiplier": 1.1,
     "BaseFrequencyChangeFee": 500,
     "FrequencyFeeMultiplier": 1.1,
-    "JewellerPriceCap": 50000
+    "JewellerPriceCap": 50000,
+    "BaseSealGemPrice": 50000
   },
   "bumpableSpawnsConfig": {
     "ReservedSpace": {
@@ -1161,5 +1167,9 @@
       "x": 200,
       "y": 500
     }
+  },
+  "riskConfig": {
+    "RiskHealthMultiplier": 1,
+    "RiskDamageMultiplier": 0.5
   }
 }

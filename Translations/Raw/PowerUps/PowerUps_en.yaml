@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: en
-  m_SharedData: {fileID: 11400000, guid: 36dc94b2ac58f714da48f87edccc3e54, type: 2}
+  m_SharedData: {fileID: 11400000, guid: deb67305adf96fd44ad6318b9a627ac6, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -283,6 +283,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 225046963139108864
+    m_Localized: Risk
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 225046963168468992
+    m_Localized: RISK
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 225046963168468993
+    m_Localized: Increased enemy health and damage.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 225046963168468994
+    m_Localized: Enemy Health is currently increased by {HealthValue:N0}% and Damage by {DamageValue:N0}%.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 4485588580307304466
   references:
     version: 2
     RefIds:
@@ -323,4 +344,5 @@ MonoBehaviour:
         - id: 84069615756255234
         - id: 84069615760449546
         - id: 170475265769549824
+        - id: 225046963168468994
 

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: en
-  m_SharedData: {fileID: 11400000, guid: 6974a549237cf8d4c85f8644b7bb71f5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: d4ccb0554ccdaa747a346f153e8d2595, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -261,7 +261,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 402859882020864
-    m_Localized: "Increase your {GlobalKeywords.Luck}\nfor a chance to get 4 choices"
+    m_Localized: Increase your {GlobalKeywords.Luck} for a chance to get 4 choices
     m_Metadata:
       m_Items:
         Array: []
@@ -1896,6 +1896,190 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 205456101243494400
+    m_Localized: Endless
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 205459670092881920
+    m_Localized: 'Best: {furthestFloor}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101837
+  - m_Id: 211304679467786240
+    m_Localized: Add
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679497146368
+    m_Localized: Jeweller Deactivated
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213166942531346432
+    m_Localized: 'evo:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213505174802407424
+    m_Localized: '{dungeonName}: Endless'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101837
+  - m_Id: 213902248670867456
+    m_Localized: View in Store!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810496
+    m_Localized: Available Now!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810497
+    m_Localized: Store Page
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810498
+    m_Localized: Buy Now
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810499
+    m_Localized: Sort
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810500
+    m_Localized: Sort By
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810501
+    m_Localized: Tap the Sort button to sort your hand, or hold to switch Sort By setting
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738308358144
+    m_Localized: 'Note: you can change the sort method by holding rather than tapping the Sort button'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738316746752
+    m_Localized: 'Note: change sort method by holding rather than tapping the Sort button'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 215318707187998720
+    m_Localized: Play Card
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488358301696
+    m_Localized: 'Note: Increase your luck for the chance to find rarer Gems in level ups.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633344
+    m_Localized: Save and Quit
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633345
+    m_Localized: New Best
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521574731776
+    m_Localized: Next/Previous Category
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521616674816
+    m_Localized: Next/Previous Card
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502103601152
+    m_Localized: Save and Quit to Desktop
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502124572672
+    m_Localized: Toggle {GlobalKeywords.Crawlers} / {GlobalKeywords.Arcana}
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101837
+  - m_Id: 221133792394424320
+    m_Localized: Tooltip Setting
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590144
+    m_Localized: Show All
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590145
+    m_Localized: None
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590146
+    m_Localized: '{GlobalKeywords.Crawlers}/{GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101837
+  - m_Id: 221133792419590147
+    m_Localized: Cards Only
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221394874886250496
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545463857152
+    m_Localized: Tooltips
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634368
+    m_Localized: Popouts
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634369
+    m_Localized: All
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634370
+    m_Localized: Cards
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634371
+    m_Localized: Off
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223305806126243840
+    m_Localized: Single Button Card Sorting
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223975027587887104
+    m_Localized: Default
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -1988,4 +2172,8 @@ MonoBehaviour:
         - id: 157851068723572740
         - id: 187718176982642696
         - id: 190734195120615436
+        - id: 205459670092881920
+        - id: 213505174802407424
+        - id: 221060502124572672
+        - id: 221133792419590146
 

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ru
-  m_SharedData: {fileID: 11400000, guid: da26dbe70fa206544a1ef15e3692da6c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -178,6 +178,51 @@ MonoBehaviour:
         Array: []
   - m_Id: 5409240946401286
     m_Localized: Безобидный на вид мост со зловещим названием. Что вообще может пойти не так?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120258600960
+    m_Localized: Лунасвет
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738304
+    m_Localized: Пролог Лунасвета
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738305
+    m_Localized: Здесь, в море под лунным светом, что-то затаилось...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738306
+    m_Localized: Тайна лунного света
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738307
+    m_Localized: Затопленный зал
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738308
+    m_Localized: Что же скрывается под водой... Очередной персонаж или подготовленный анонс будущего контента?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738309
+    m_Localized: Незнакомец в водах поджидает храбрейших из героев. Не забудьте захватить с собой полотенце.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738310
+    m_Localized: Лунасвет
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738311
+    m_Localized: Легенда повествует о городе, поглощённом морем под безжалостным взором полной луны. Его стены хранят неведомые тайны, которые нам предстоит раскрыть.
     m_Metadata:
       m_Items:
         Array: []

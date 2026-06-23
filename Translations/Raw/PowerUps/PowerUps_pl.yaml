@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pl
-  m_SharedData: {fileID: 11400000, guid: 36dc94b2ac58f714da48f87edccc3e54, type: 2}
+  m_SharedData: {fileID: 11400000, guid: deb67305adf96fd44ad6318b9a627ac6, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -222,6 +222,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 225046963168468992
+    m_Localized: RYZYKO
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 225046963168468994
+    m_Localized: Zdrowie wrogów jest obecnie zwiększone o {HealthValue:N0}%, a obrażenia o {DamageValue:N0}%.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 4841317358791295115
   references:
     version: 2
     RefIds:
@@ -282,4 +293,5 @@ MonoBehaviour:
         - id: 18138219010928640
         - id: 96079886660087808
         - id: 170475265769549824
+        - id: 225046963168468994
 

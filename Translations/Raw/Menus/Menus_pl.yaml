@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pl
-  m_SharedData: {fileID: 11400000, guid: 6974a549237cf8d4c85f8644b7bb71f5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: d4ccb0554ccdaa747a346f153e8d2595, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -115,7 +115,7 @@ MonoBehaviour:
         Array:
         - rid: 1496553099325603846
   - m_Id: 89504348733440
-    m_Localized: '{Date:MMMM d, yyyy h:mm tt}'
+    m_Localized: '{Date:d MMMM yyyy, HH:mm}'
     m_Metadata:
       m_Items:
         Array:
@@ -276,7 +276,7 @@ MonoBehaviour:
         Array:
         - rid: 1496553099325603846
   - m_Id: 402859882020864
-    m_Localized: "Zwiększ {GlobalKeywords.Luck},\naby zyskać szansę na 4 opcje do wyboru"
+    m_Localized: Zwiększ {GlobalKeywords.Luck}, aby zyskać szansę na 4 opcje do wyboru
     m_Metadata:
       m_Items:
         Array:
@@ -1858,6 +1858,189 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 205459670092881920
+    m_Localized: 'Najdalej: {furthestFloor}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603846
+  - m_Id: 213505174802407424
+    m_Localized: '{dungeonName}: wieczność'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603846
+  - m_Id: 205456101243494400
+    m_Localized: Wieczność
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679467786240
+    m_Localized: Dodaj
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679497146368
+    m_Localized: Jubiler dezaktywowany
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213166942531346432
+    m_Localized: 'ulep:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248670867456
+    m_Localized: Zobacz w sklepie!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810496
+    m_Localized: Dostępne teraz!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810497
+    m_Localized: Strona sklepu
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810498
+    m_Localized: Kup teraz
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810499
+    m_Localized: Sortuj
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810500
+    m_Localized: Sortuj według
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810501
+    m_Localized: Naciśnij przycisk Sortuj, aby posortować rękę, lub przytrzymaj, aby zmienić ustawienie Sortuj według
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738308358144
+    m_Localized: 'Uwaga: możesz zmienić metodę sortowania, przytrzymując dłużej przycisk Sortuj'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738316746752
+    m_Localized: 'Uwaga: zmień metodę sortowania, przytrzymując dłużej przycisk Sortuj'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 215318707187998720
+    m_Localized: Zagraj kartę
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488358301696
+    m_Localized: 'Uwaga: większe Szczęście oznacza większe szanse na znalezienie rzadszych klejnotów po zdobyciu nowego poziomu.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633344
+    m_Localized: Zapisz i wyjdź
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633345
+    m_Localized: Nowy rekord
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521574731776
+    m_Localized: Kategoria dalej/wstecz
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521616674816
+    m_Localized: Karta dalej/wstecz
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502103601152
+    m_Localized: Zapisz i wyjdź do pulpitu
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502124572672
+    m_Localized: Wł./Wył.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792394424320
+    m_Localized: Ustawienia podpowiedzi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590144
+    m_Localized: Pokaż wszystkie
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590145
+    m_Localized: Nie pokazuj
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590146
+    m_Localized: '{GlobalKeywords.Crawlers} i {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603846
+  - m_Id: 221133792419590147
+    m_Localized: Tylko karty
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221394874886250496
+    m_Localized: Menu główne
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545463857152
+    m_Localized: Podpowiedzi
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634368
+    m_Localized: Rozwijane informacje
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634369
+    m_Localized: Wszystko
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634370
+    m_Localized: Karty
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634371
+    m_Localized: Wył.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223305806126243840
+    m_Localized: Jeden przycisk sortowania kart
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223975027587887104
+    m_Localized: Domyślne
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -1935,4 +2118,7 @@ MonoBehaviour:
         - id: 114178403937017865
         - id: 147149190873559041
         - id: 187718176982642696
+        - id: 205459670092881920
+        - id: 213505174802407424
+        - id: 221133792419590146
 

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: it
-  m_SharedData: {fileID: 11400000, guid: 626e4250d04bc15419331ff5e5ed987d, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 40bfabc463cbc8047a75e6baa75aa46a, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -172,12 +172,35 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 109339954146959360
-    m_Localized: Incompatible Save Data
+    m_Localized: Dati salvataggio non compatibili
     m_Metadata:
       m_Items:
         Array: []
   - m_Id: 109339954184708096
-    m_Localized: Full game save data has been detected, but this is the Demo of Vampire Crawlers. Please exit and run the full game to use this data.
+    m_Localized: Sono stati rilevati dei dati di salvataggio del gioco completo, ma questa è la demo di Vampire Crawlers. Per utilizzare questi dati, esci dalla demo e avvia il gioco completo.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 127095948949139456
+    m_Localized: 'Vuoi tornare al desktop? \nUltimo salvataggio: {TimeStamp: d MMMM yyyy HH:mm}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 5248835630640398451
+  - m_Id: 127095948970110976
+    m_Localized: 'Vuoi uscire da {GlobalKeywords.VampireCrawlers}? \nUltimo salvataggio: {TimeStamp: d MMMM yyyy HH:mm}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 5248835630640398451
+  - m_Id: 127095948970110977
+    m_Localized: 'Vuoi tornare al menu principale? \nUltimo salvataggio: {TimeStamp: d MMMM yyyy HH:mm}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 5248835630640398451
+  - m_Id: 127095948970110978
+    m_Localized: Torna al menu principale
     m_Metadata:
       m_Items:
         Array: []
@@ -203,4 +226,7 @@ MonoBehaviour:
         - id: 57642285741891584
         - id: 57642285800611840
         - id: 60909211839705088
+        - id: 127095948949139456
+        - id: 127095948970110976
+        - id: 127095948970110977
 

@@ -191,6 +191,26 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 127095948949139456
+    m_Key: MESSAGE_QUIT_TO_DESKTOP_TIMESTAMP
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 127095948970110976
+    m_Key: MESSAGE_QUIT_VC_TIMESTAMP
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 127095948970110977
+    m_Key: MESSAGE_EXIT_MAIN_MENU_TIMESTAMP
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 127095948970110978
+    m_Key: MESSAGE_EXIT_MAIN_MENU_TITLE
+    m_Metadata:
+      m_Items:
+        Array: []
   m_Metadata:
     m_Items:
       Array: []

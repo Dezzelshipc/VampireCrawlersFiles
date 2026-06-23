@@ -1900,6 +1900,186 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 205456101243494400
+    m_Key: ENDLESS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 205459670092881920
+    m_Key: ENDLESS_FURTHEST_FLOOR
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679467786240
+    m_Key: ADD_LABEL
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679497146368
+    m_Key: JEWELLER_DEACTIVATED
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213166942531346432
+    m_Key: EVO_LABEL
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213505174802407424
+    m_Key: ENDLESS_RESULTS_TITLE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248670867456
+    m_Key: BUY_NOW_1
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810496
+    m_Key: BUY_NOW_2
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810497
+    m_Key: BUY_NOW_3
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810498
+    m_Key: BUY_NOW_4
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810499
+    m_Key: SORT
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810500
+    m_Key: SORT_BY_SETTING
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810501
+    m_Key: SORT_SETTING_HINT
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738308358144
+    m_Key: SORT_SETTING_HINT_ALT1
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738316746752
+    m_Key: SORT_SETTING_HINT_ALT2
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 215318707187998720
+    m_Key: PLAY_CARD_SETTING
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488358301696
+    m_Key: GEM_LUCK_HINT
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633344
+    m_Key: EXIT_GAME_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633345
+    m_Key: NEW_BEST
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521574731776
+    m_Key: ACTION_SELECT_CARD_UP_DOWN
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521616674816
+    m_Key: ACTION_SELECT_CARD_LEFT_RIGHT
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502103601152
+    m_Key: SAVE_QUIT_DESKTOP
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502124572672
+    m_Key: ACTION_TOGGLE_PORTRAITS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792394424320
+    m_Key: TOOLTIP_SETTING_LABEL
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590144
+    m_Key: TOOLTIP_OPTION_ALL
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590145
+    m_Key: TOOLTIP_OPTION_NONE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590146
+    m_Key: TOOLTIP_OPTION_POPOUTS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590147
+    m_Key: TOOLTIP_OPTION_CARDS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221394874886250496
+    m_Key: MAIN_MENU
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545463857152
+    m_Key: TOOLTIPS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634368
+    m_Key: TOOLTIPS_POPOUTS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634369
+    m_Key: TOOLTIPS_ALL
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634370
+    m_Key: TOOLTIPS_CARDS
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634371
+    m_Key: TOOLTIPS_OFF
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223305806126243840
+    m_Key: SETTING_SORT_ONE_BUTTON_TOGGLE
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223975027587887104
+    m_Key: DEFAULT_DEFAULT
+    m_Metadata:
+      m_Items:
+        Array: []
   m_Metadata:
     m_Items:
       Array: []

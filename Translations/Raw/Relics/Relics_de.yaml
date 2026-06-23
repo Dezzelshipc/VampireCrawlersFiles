@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: de
-  m_SharedData: {fileID: 11400000, guid: ce1bf3ff8da94084c81bdb47ead05c4f, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 80fe4d5f5cb76da468c8d1b181a5a9d3, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -264,6 +264,16 @@ MonoBehaviour:
         - rid: 1186001538324365322
   - m_Id: 139227927105449984
     m_Localized: Arcanafinder
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 157993411757944832
+    m_Localized: Siebente Trompete
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 157993411795693568
+    m_Localized: Fügt einen „Endlos“-Button auf der Weltkarte hinzu.
     m_Metadata:
       m_Items:
         Array: []

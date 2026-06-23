@@ -3015,6 +3015,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 195381509462372352
+    m_Key: ACHIEVEMENT_UNLOCK_TRUMPET
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195381509508509696
+    m_Key: ACHIEVEMENT_UNLOCK_TRUMPET_DESC
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195381509508509697
+    m_Key: REWARD_TRUMPET
+    m_Metadata:
+      m_Items:
+        Array: []
   m_Metadata:
     m_Items:
       Array: []

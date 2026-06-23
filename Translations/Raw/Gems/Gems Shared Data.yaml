@@ -670,6 +670,36 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 76484134191443968
+    m_Key: GEM_DESC_DRAIN_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804096
+    m_Key: GEM_DESC_STEAL_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804097
+    m_Key: GEM_NAME_DISCHARGE_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804098
+    m_Key: GEM_DESC_DISCHARGE_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804099
+    m_Key: GEM_DESC_DISCHARGE_NEW2
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76512690875346944
+    m_Key: GEM_DESC_DISCHARGE_NEW3
+    m_Metadata:
+      m_Items:
+        Array: []
   m_Metadata:
     m_Items:
       Array: []

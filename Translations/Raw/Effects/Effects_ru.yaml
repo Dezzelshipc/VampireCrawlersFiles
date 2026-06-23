@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ru
-  m_SharedData: {fileID: 11400000, guid: 8d6b065a4bd7a0d4cb0c54096e944c85, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e1ba060edadf0744aad16c0cca5e1b7d, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -1802,6 +1802,43 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 7336426704161210480
+  - m_Id: 210570225113837568
+    m_Localized: Высокий шанс предотвратить одно вражеское действие.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210570225151586304
+    m_Localized: 'Высокий шанс предотвратить вражеское действие: {ActionValue:N0}.'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 7336426704161210480
+  - m_Id: 210600141054226432
+    m_Localized: '{:color(Keyword):Разрушитель комбо}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 7336426704161210480
+  - m_Id: 210600141054226433
+    m_Localized: Эта карта всегда использует множитель комбо, но также и завершает его.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226434
+    m_Localized: Завершает комбо, но всегда использует его множитель.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226435
+    m_Localized: Завершает комбо, чтобы использовать его множитель.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 219562269966544896
+    m_Localized: Активируйте все способности активного бродяги.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -2022,4 +2059,6 @@ MonoBehaviour:
         - id: 191785002792333312
         - id: 191747417810395136
         - id: 195294087462465536
+        - id: 210570225151586304
+        - id: 210600141054226432
 

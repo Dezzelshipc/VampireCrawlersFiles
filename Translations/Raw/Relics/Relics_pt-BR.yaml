@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pt-BR
-  m_SharedData: {fileID: 11400000, guid: ce1bf3ff8da94084c81bdb47ead05c4f, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 80fe4d5f5cb76da468c8d1b181a5a9d3, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -264,6 +264,16 @@ MonoBehaviour:
         - rid: 1186001538324365341
   - m_Id: 139227927105449984
     m_Localized: Buscador de Arcanas
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 157993411757944832
+    m_Localized: Sétima Trombeta
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 157993411795693568
+    m_Localized: Adiciona um botão de Infinito ao mapa do mundo.
     m_Metadata:
       m_Items:
         Array: []

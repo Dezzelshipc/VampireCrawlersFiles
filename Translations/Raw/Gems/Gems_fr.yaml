@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: fr
-  m_SharedData: {fileID: 11400000, guid: a9cc01bc968b58c49a61e7896f441eb6, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 6588b66b7ff374e43b8e9a2f51fc8046, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -606,6 +606,36 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1496553099325603841
+  - m_Id: 76484134191443968
+    m_Localized: Vous soigne lorsqu'un ennemi meurt.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804096
+    m_Localized: Octroie des pièces lorsqu'un ennemi meurt.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804097
+    m_Localized: Brise-combo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804098
+    m_Localized: Cette carte bénéficie toujours des combos, mais elle y mettra également un terme.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804099
+    m_Localized: Met un terme au combo, mais bénéficie constamment du multiplicateur.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76512690875346944
+    m_Localized: Consomme le combo afin de bénéficier du multiplicateur.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:

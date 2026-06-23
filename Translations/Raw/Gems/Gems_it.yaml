@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: it
-  m_SharedData: {fileID: 11400000, guid: a9cc01bc968b58c49a61e7896f441eb6, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 6588b66b7ff374e43b8e9a2f51fc8046, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -607,6 +607,36 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1496553099325603845
+  - m_Id: 76484134191443968
+    m_Localized: Guarisce alla morte del nemico.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804096
+    m_Localized: Guadagna monete quando il nemico muore.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804097
+    m_Localized: Spaccacombo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804098
+    m_Localized: Questa carta beneficia sempre delle combo, ma le interrompe.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804099
+    m_Localized: Interrompe le combo, ma beneficia sempre del moltiplicatore.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76512690875346944
+    m_Localized: Consuma le combo per beneficiare del moltiplicatore.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:

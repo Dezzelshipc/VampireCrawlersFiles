@@ -922,5 +922,33 @@
     "ko": "아르카나 파인더",
     "zh-Hant": "秘法牌探測器",
     "zh-Hans": "秘能探测者"
+  },
+  "RELIC_SEVENTH_TRUMPET": {
+    "en": "Seventh Trumpet",
+    "fr": "Septième trompette",
+    "it": "Settima tromba",
+    "de": "Siebente Trompete",
+    "es": "Séptima trompeta",
+    "pt-BR": "Sétima Trombeta",
+    "pl": "Siódma trąba",
+    "ru": "Седьмой рупор",
+    "ja": "第七のラッパ吹き",
+    "ko": "일곱 번째 나팔",
+    "zh-Hant": "第七號角",
+    "zh-Hans": "第七号角"
+  },
+  "RELIC_SEVENTH_TRUMPET_DESC": {
+    "en": "Adds an Endless button to the World Map.",
+    "fr": "Ajoute un bouton Sans fin sur la carte du monde.",
+    "it": "Aggiunge il pulsante Senza fine alla mappa del mondo.",
+    "de": "Fügt einen „Endlos“-Button auf der Weltkarte hinzu.",
+    "es": "Añade un botón de Eternidad al mapa del mundo.",
+    "pt-BR": "Adiciona um botão de Infinito ao mapa do mundo.",
+    "pl": "Dodaje przycisk Wieczność do Mapy świata.",
+    "ru": "Добавляет кнопку «Без конца» на карту мира.",
+    "ja": "ワールドマップに「エンドレス」ボタンを追加。",
+    "ko": "세계 지도에 무한 버튼을 추가합니다.",
+    "zh-Hant": "在地圖介面中加入「無盡模式」的按鈕。",
+    "zh-Hans": "在世界地图上添加无尽按钮。"
   }
 }

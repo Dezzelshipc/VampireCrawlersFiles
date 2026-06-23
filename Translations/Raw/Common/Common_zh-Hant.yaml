@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hant
-  m_SharedData: {fileID: 11400000, guid: 626e4250d04bc15419331ff5e5ed987d, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 40bfabc463cbc8047a75e6baa75aa46a, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -172,12 +172,35 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 109339954146959360
-    m_Localized: Incompatible Save Data
+    m_Localized: 存檔資料不相容
     m_Metadata:
       m_Items:
         Array: []
   - m_Id: 109339954184708096
-    m_Localized: Full game save data has been detected, but this is the Demo of Vampire Crawlers. Please exit and run the full game to use this data.
+    m_Localized: 偵測到正式版的存檔資料，但目前執行的是體驗版的《Vampire Crawlers》。請退出遊戲並執行正式版的《Vampire Crawlers》，好使用這筆存檔資料
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 127095948949139456
+    m_Localized: 確定要退出至桌面嗎？\n上次存檔：{TimeStamp:yyyy/MM/dd h:mm tt}
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 5248835630640398453
+  - m_Id: 127095948970110976
+    m_Localized: 確定要退出{GlobalKeywords.VampireCrawlers}嗎？\n上次存檔：{TimeStamp:yyyy/MM/dd h:mm tt}
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 5248835630640398453
+  - m_Id: 127095948970110977
+    m_Localized: 確定要返回主選單嗎？\n上次存檔：{TimeStamp:yyyy/MM/dd h:mm tt}
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 5248835630640398453
+  - m_Id: 127095948970110978
+    m_Localized: 返回主選單
     m_Metadata:
       m_Items:
         Array: []
@@ -203,4 +226,7 @@ MonoBehaviour:
         - id: 57642285741891584
         - id: 57642285800611840
         - id: 60909211839705088
+        - id: 127095948949139456
+        - id: 127095948970110976
+        - id: 127095948970110977
 

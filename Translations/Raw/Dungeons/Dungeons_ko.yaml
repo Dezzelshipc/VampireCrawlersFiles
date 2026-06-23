@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: da26dbe70fa206544a1ef15e3692da6c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -178,6 +178,51 @@ MonoBehaviour:
         Array: []
   - m_Id: 5409240946401286
     m_Localized: 겉보기엔 평범해 보이는 다리지만, 이름은 위협적입니다. 무슨 문제라도 생길까요?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120258600960
+    m_Localized: 달빛
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738304
+    m_Localized: 달빛 프롤로그
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738305
+    m_Localized: 달빛 비치는 바다 밑에 무언가가 기다리고 있습니다...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738306
+    m_Localized: 달빛에 비친 미스터리
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738307
+    m_Localized: 침몰된 방
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738308
+    m_Localized: 파도 아래에 있는 것이 무엇일까요... 단순한 NPC와의 만남일까요, 아니면 나중에 드러날 콘텐츠를 성급하게 미리 보여주는 것일까요?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738309
+    m_Localized: 썰물 아래에서 이방인 하나가 가장 용감한 크롤러를 기다립니다.   흠뻑 젖을 것 같으니 수건 꼭 챙겨오세요.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738310
+    m_Localized: 달빛
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738311
+    m_Localized: 보름달의 냉혹한 감시 아래, 바다가 삼켜버린 도시의 전설이 입에서 입으로 전해집니다. 아직 밝혀지지 않은 미스터리의 본거지, 그 벽 아래 무엇이 도사리고 있는지 살펴봐야 해요.
     m_Metadata:
       m_Items:
         Array: []

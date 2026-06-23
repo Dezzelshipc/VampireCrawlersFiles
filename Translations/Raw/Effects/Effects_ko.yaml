@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: 8d6b065a4bd7a0d4cb0c54096e944c85, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e1ba060edadf0744aad16c0cca5e1b7d, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -534,7 +534,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 22481692522524675
-    m_Localized: '{GlobalKeywords.Handsize} {0:combo:} 증가'
+    m_Localized: '{GlobalKeywords.Handsize} {ActionValue:N0} 증가'
     m_Metadata:
       m_Items:
         Array:
@@ -1929,6 +1929,43 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1496553099325603854
+  - m_Id: 210570225113837568
+    m_Localized: 적의 활동을 1회 막을 확률이 높습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210570225151586304
+    m_Localized: 적의 공격을 {ActionValue:N0}회 막을 확률이 높습니다.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603854
+  - m_Id: 210600141054226432
+    m_Localized: '{:color(Keyword):콤보 브레이커}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603854
+  - m_Id: 210600141054226433
+    m_Localized: 이 카드로 콤보의 효과를 항상 누리지만, 콤보를 끝낼 수도 있습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226434
+    m_Localized: 콤보를 종료시키지만 항상 배율로 이점을 얻습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226435
+    m_Localized: 콤보를 소모하여 배율 효과를 얻습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 219562269966544896
+    m_Localized: 활성화된 크롤러의 능력을 모두 발동합니다.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -2180,4 +2217,6 @@ MonoBehaviour:
         - id: 191747417810395136
         - id: 191747417848143872
         - id: 195294087462465536
+        - id: 210570225151586304
+        - id: 210600141054226432
 

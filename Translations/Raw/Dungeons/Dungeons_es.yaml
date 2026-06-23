@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: es
-  m_SharedData: {fileID: 11400000, guid: da26dbe70fa206544a1ef15e3692da6c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
   m_Metadata:
     m_Items:
       Array: []
@@ -176,6 +176,51 @@ MonoBehaviour:
         Array: []
   - m_Id: 5409240946401286
     m_Localized: Un puente de aspecto inocente y un nombre sencillo. ¿Qué puede salir mal?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120258600960
+    m_Localized: Ciudad lunar
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738304
+    m_Localized: Prólogo de Ciudad lunar
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738305
+    m_Localized: Algo espera bajo este mar iluminado por la luna...
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738306
+    m_Localized: Misterio iluminado por la luna
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738307
+    m_Localized: Cámara hundida
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738308
+    m_Localized: ¿Qué habrá bajo las olas?... ¿Un PNJ sin más? ¿O quizás un apresurado adelanto del próximo contenido?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738309
+    m_Localized: Bajo una marea menguante, un forastero espera a los cruzamazmorras más aguerridos. Todo está empapado, así que no te olvides de traerte una toalla.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738310
+    m_Localized: Ciudad lunar
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738311
+    m_Localized: Cuenta la leyenda que el mar engulló toda una ciudad ante la impasible mirada de la luna llena. Dicen que está repleta de misterios desconocidos, así que tenemos que comprobar qué secretos oculta.
     m_Metadata:
       m_Items:
         Array: []

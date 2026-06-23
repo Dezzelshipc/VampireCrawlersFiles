@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: 204ec117f042e6d408dbd3e4e7edd874, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 57692f7a1cfa4cd49a597ee46501546b, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -327,7 +327,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 43039569383088128
-    m_Localized: 클로버 꽃잎
+    m_Localized: 클로버 잎
     m_Metadata:
       m_Items:
         Array: []
@@ -922,23 +922,20 @@ MonoBehaviour:
         Array:
         - rid: 3501508295450427393
   - m_Id: 96053010080149504
-    m_Localized: 골든 {GlobalKeywords.Armor}
+    m_Localized: '골든 방어구 '
     m_Metadata:
       m_Items:
-        Array:
-        - rid: 3501508295450427393
+        Array: []
   - m_Id: 96053010109509632
-    m_Localized: 레인보우 {GlobalKeywords.Armor}
+    m_Localized: 레인보우 방어구
     m_Metadata:
       m_Items:
-        Array:
-        - rid: 3501508295450427393
+        Array: []
   - m_Id: 96053010109509633
-    m_Localized: 영웅의 {GlobalKeywords.Armor}
+    m_Localized: 영웅의 방어구
     m_Metadata:
       m_Items:
-        Array:
-        - rid: 3501508295450427393
+        Array: []
   - m_Id: 96053010109509634
     m_Localized: 왕관
     m_Metadata:
@@ -960,12 +957,12 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 96053010109509638
-    m_Localized: 캔델라
+    m_Localized: 캔들라
     m_Metadata:
       m_Items:
         Array: []
   - m_Id: 96053010109509639
-    m_Localized: 캔델라브라도르
+    m_Localized: 캔들라브라도르
     m_Metadata:
       m_Items:
         Array: []
@@ -1128,6 +1125,26 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 211294565786660864
+    m_Localized: 트러블러
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211294565824409600
+    m_Localized: 빅 트러블러
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211294565824409601
+    m_Localized: 트라우저
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211294565824409602
+    m_Localized: 빅 트라우저
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -1170,9 +1187,6 @@ MonoBehaviour:
         - id: 91623089015697408
         - id: 91623089015697410
         - id: 91941052650434560
-        - id: 96053010080149504
-        - id: 96053010109509632
-        - id: 96053010109509633
         - id: 101123495604248576
         - id: 146823645383045120
         - id: 155499035974643712

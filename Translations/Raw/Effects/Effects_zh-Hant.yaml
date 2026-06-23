@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hant
-  m_SharedData: {fileID: 11400000, guid: 8d6b065a4bd7a0d4cb0c54096e944c85, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e1ba060edadf0744aad16c0cca5e1b7d, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -188,7 +188,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 73158922070908928
-    m_Localized: 創建 {Value:p:1 張{CardName}卡牌|{0:N0} 張{CardName}卡牌}
+    m_Localized: 創建 {Value:p:1 張{CardName}卡牌|{:N0} 張{CardName}卡牌}
     m_Metadata:
       m_Items:
         Array: []
@@ -213,7 +213,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 203187388435
-    m_Localized: 阻止最多 {Count:p:1 名敵人|{0:N0} 名敵人}做出{EnemyTypeToTarget}
+    m_Localized: 阻止最多 {Count:p:1 名敵人|{:N0} 名敵人}做出{EnemyTypeToTarget}
     m_Metadata:
       m_Items:
         Array: []
@@ -279,17 +279,17 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 14099994428649476
-    m_Localized: 穿透 {ActionValue:p:1 名敵人|{0:N0} 名敵人}
+    m_Localized: 穿透 {ActionValue:p:1 名敵人|{:N0} 名敵人}
     m_Metadata:
       m_Items:
         Array: []
   - m_Id: 14099994428649477
-    m_Localized: 棄掉 {ActionValue:p:1 張手牌|{0:N0} 張手牌}
+    m_Localized: 棄掉 {ActionValue:p:1 張手牌|{:N0} 張手牌}
     m_Metadata:
       m_Items:
         Array: []
   - m_Id: 14099994428649478
-    m_Localized: 抽取 {ActionValue:p:1 張卡牌|{0:N0} 張卡牌}
+    m_Localized: 抽取 {ActionValue:p:1 張卡牌|{:N0} 張卡牌}
     m_Metadata:
       m_Items:
         Array: []
@@ -349,7 +349,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 14099994428649492
-    m_Localized: 阻止 {ActionValue:p:1 名敵人|{0:N0} 名敵人}發起攻擊
+    m_Localized: 阻止 {ActionValue:p:1 名敵人|{:N0} 名敵人}發起攻擊
     m_Metadata:
       m_Items:
         Array: []
@@ -1758,7 +1758,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 185185192261922816
-    m_Localized: 機率將 {ActionValue:p:1 張法力卡|{0:N0} 張法力卡} 加入你的 {GlobalKeywords.Hand}。
+    m_Localized: 機率將 {ActionValue:p:1 張法力卡|{:N0} 張法力卡} 加入你的 {GlobalKeywords.Hand}。
     m_Metadata:
       m_Items:
         Array:
@@ -1827,6 +1827,43 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1186001538324365356
+  - m_Id: 210570225113837568
+    m_Localized: 高機率阻斷 1 次敵人的行動。
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210570225151586304
+    m_Localized: 高機率阻斷  {ActionValue:N0}  次敵人的行動。
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365356
+  - m_Id: 210600141054226432
+    m_Localized: '{:color(Keyword):連擊終結者}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365356
+  - m_Id: 210600141054226433
+    m_Localized: 這張卡牌在任何情況下都能夠獲得連擊加成的效果，但也會終結掉當下的連擊
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226434
+    m_Localized: 會終結連擊，但一定能夠吃到連擊的倍率加成
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226435
+    m_Localized: 犧牲連擊，好藉此獲得倍率加成的效果
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 219562269966544896
+    m_Localized: 觸發所有啟用中的冒險者能力。
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -2072,4 +2109,6 @@ MonoBehaviour:
         - id: 191747417810395136
         - id: 191747417848143872
         - id: 195294087462465536
+        - id: 210570225151586304
+        - id: 210600141054226432
 

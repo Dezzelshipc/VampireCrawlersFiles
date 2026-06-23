@@ -345,6 +345,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 157993411757944832
+    m_Key: RELIC_SEVENTH_TRUMPET
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 157993411795693568
+    m_Key: RELIC_SEVENTH_TRUMPET_DESC
+    m_Metadata:
+      m_Items:
+        Array: []
   m_Metadata:
     m_Items:
       Array: []

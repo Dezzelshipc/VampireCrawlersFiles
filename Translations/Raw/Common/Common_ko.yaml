@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: 626e4250d04bc15419331ff5e5ed987d, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 40bfabc463cbc8047a75e6baa75aa46a, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -175,12 +175,35 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 109339954146959360
-    m_Localized: Incompatible Save Data
+    m_Localized: 저장 데이터 호환 불가능
     m_Metadata:
       m_Items:
         Array: []
   - m_Id: 109339954184708096
-    m_Localized: Full game save data has been detected, but this is the Demo of Vampire Crawlers. Please exit and run the full game to use this data.
+    m_Localized: 모든 게임 저장 데이터를 완전히 감지했지만, 이 데이터는 Vampire Crawlers 데모 버전입니다. 해당 데이터를 사용하려면 게임을 종료하고 정식 버전을 실행하세요.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 127095948949139456
+    m_Localized: '종료 후 데스크톱으로 나가시겠습니까?\n마지막 저장: {TimeStamp:f}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603853
+  - m_Id: 127095948970110976
+    m_Localized: '{GlobalKeywords.VampireCrawleres}를 종료하시겠습니까?\n마지막 저장: {TimeStamp:f}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603853
+  - m_Id: 127095948970110977
+    m_Localized: '메인 메뉴로 나가시겠습니까?\n마지막 저장: {TimeStamp:f}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603853
+  - m_Id: 127095948970110978
+    m_Localized: 메인 메뉴로 나가기
     m_Metadata:
       m_Items:
         Array: []
@@ -211,4 +234,7 @@ MonoBehaviour:
         - id: 57642285741891584
         - id: 57642285800611840
         - id: 60909211839705088
+        - id: 127095948949139456
+        - id: 127095948970110976
+        - id: 127095948970110977
 

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ja
-  m_SharedData: {fileID: 11400000, guid: 8d6b065a4bd7a0d4cb0c54096e944c85, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e1ba060edadf0744aad16c0cca5e1b7d, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -1827,6 +1827,43 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 2833696724673101836
+  - m_Id: 210570225113837568
+    m_Localized: 高確率で敵のアクションを1回防ぐ。
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210570225151586304
+    m_Localized: 高確率で敵のアクション{ActionValue:N0}を防ぐ。
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101836
+  - m_Id: 210600141054226432
+    m_Localized: '{:color(Keyword):コンボブレイカー}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 2833696724673101836
+  - m_Id: 210600141054226433
+    m_Localized: このカードは必ずコンボの恩恵を受けるが、同時にコンボを終わらせてしまう。
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226434
+    m_Localized: コンボは終了するが、常に倍率の恩恵を受ける。
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226435
+    m_Localized: コンボを発動させて、倍率の恩恵を受ける。
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 219562269966544896
+    m_Localized: アクティブな全クロウラーアビリティを発動する。
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -2072,4 +2109,6 @@ MonoBehaviour:
         - id: 191747417810395136
         - id: 191747417848143872
         - id: 195294087462465536
+        - id: 210570225151586304
+        - id: 210600141054226432
 

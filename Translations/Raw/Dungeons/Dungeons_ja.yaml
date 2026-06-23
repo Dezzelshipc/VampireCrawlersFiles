@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ja
-  m_SharedData: {fileID: 11400000, guid: da26dbe70fa206544a1ef15e3692da6c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -178,6 +178,51 @@ MonoBehaviour:
         Array: []
   - m_Id: 5409240946401286
     m_Localized: その名とは裏腹に無害そうな橋。きっと渡っても何ら問題はない…よね？
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120258600960
+    m_Localized: ムーンゴロウ
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738310
+    m_Localized: ムーンゴロウ
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738304
+    m_Localized: ムーンゴロウ プロローグ
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738305
+    m_Localized: 月光に照らされたこの海の下で、何かが待ち構えている……
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738306
+    m_Localized: 月明かりの謎
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738307
+    m_Localized: 沈んだ部屋
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738308
+    m_Localized: 波の奥にあるものとは……単なるNPCとの遭遇なのか、それともコンテンツを急いで用意したプレビューなだけ？
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738309
+    m_Localized: 満ち引きする潮の下で、見知らぬ何者かが最も勇敢なクロウラーたちを待っている。ただ、びしょ濡れになるので、タオルを忘れずに持って行こう。
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738311
+    m_Localized: 伝説によると、ある都市が満月の無情な監視の下、海に飲み込まれた。未知の謎が潜むその街、城壁の向こうに何があるのか、確かめるべきだろう。
     m_Metadata:
       m_Items:
         Array: []

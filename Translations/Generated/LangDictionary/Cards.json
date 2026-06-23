@@ -779,7 +779,7 @@
     "pl": "Płatek koniczyny",
     "ru": "Листок клевера",
     "ja": "クローバーの葉",
-    "ko": "클로버 꽃잎",
+    "ko": "클로버 잎",
     "zh-Hant": "三葉草瓣",
     "zh-Hans": "四叶草花瓣"
   },
@@ -4153,7 +4153,7 @@
     "pl": "Złoty {GlobalKeywords.Armor}",
     "ru": "Золотая {GlobalKeywords.Armor}",
     "ja": "ゴールデン{GlobalKeywords.Armor}",
-    "ko": "골든 {GlobalKeywords.Armor}",
+    "ko": "골든 방어구 ",
     "zh-Hant": "黃金{GlobalKeywords.Armor}",
     "zh-Hans": "黄金{GlobalKeywords.Armor}"
   },
@@ -4167,7 +4167,7 @@
     "pl": "Tęczowy {GlobalKeywords.Armor}",
     "ru": "Радужная {GlobalKeywords.Armor}",
     "ja": "レインボー{GlobalKeywords.Armor}",
-    "ko": "레인보우 {GlobalKeywords.Armor}",
+    "ko": "레인보우 방어구",
     "zh-Hant": "彩虹{GlobalKeywords.Armor}",
     "zh-Hans": "彩虹{GlobalKeywords.Armor}"
   },
@@ -4181,7 +4181,7 @@
     "pl": "{GlobalKeywords.Armor} bohatera",
     "ru": "Героическая {GlobalKeywords.Armor}",
     "ja": "英雄の{GlobalKeywords.Armor}",
-    "ko": "영웅의 {GlobalKeywords.Armor}",
+    "ko": "영웅의 방어구",
     "zh-Hant": "英雄{GlobalKeywords.Armor}",
     "zh-Hans": "英雄{GlobalKeywords.Armor}"
   },
@@ -4251,7 +4251,7 @@
     "pl": "Świeca",
     "ru": "Канделла",
     "ja": "キャンデラ",
-    "ko": "캔델라",
+    "ko": "캔들라",
     "zh-Hant": "蜀臺",
     "zh-Hans": "双烛"
   },
@@ -4265,7 +4265,7 @@
     "pl": "Kandelabrador",
     "ru": "Канделябрадор",
     "ja": "ロウソク",
-    "ko": "캔델라브라도르",
+    "ko": "캔들라브라도르",
     "zh-Hant": "燭臺",
     "zh-Hans": "烛台"
   },
@@ -4744,5 +4744,61 @@
     "ko": null,
     "zh-Hant": null,
     "zh-Hans": null
+  },
+  "TROUBLER": {
+    "en": "Troubler",
+    "fr": "Troubler",
+    "it": "Troubler",
+    "de": "Troubler",
+    "es": "Troubler",
+    "pt-BR": "Troubler",
+    "pl": "Troubler",
+    "ru": "Траблер",
+    "ja": "トラブラー",
+    "ko": "트러블러",
+    "zh-Hant": "妖魔",
+    "zh-Hans": "Troubler"
+  },
+  "TROUBLER_FN": {
+    "en": "Big Troubler",
+    "fr": "Big Troubler",
+    "it": "Big Troubler",
+    "de": "Big Troubler",
+    "es": "Big Troubler",
+    "pt-BR": "Big Troubler",
+    "pl": "Big Troubler",
+    "ru": "Биг Траблер",
+    "ja": "ビッグトラブラー",
+    "ko": "빅 트러블러",
+    "zh-Hant": "大尾妖魔",
+    "zh-Hans": "Big Troubler"
+  },
+  "TROUSER": {
+    "en": "Trouser",
+    "fr": "Pantalon",
+    "it": "Lone",
+    "de": "Hose",
+    "es": "Pantaleón",
+    "pt-BR": "Pantalone",
+    "pl": "Spodnie",
+    "ru": "Брюко",
+    "ja": "トラウザー",
+    "ko": "트라우저",
+    "zh-Hant": "褲子",
+    "zh-Hans": "裤子商"
+  },
+  "TROUSER_FN": {
+    "en": "Big Trouser",
+    "fr": "Sieur Pantalon",
+    "it": "Panta Lone",
+    "de": "Dicke Hose",
+    "es": "Gran Pantaleón",
+    "pt-BR": "Grande Pantalone",
+    "pl": "Duże Spodnie",
+    "ru": "Большое Брюко",
+    "ja": "ビッグ トラウザー",
+    "ko": "빅 트라우저",
+    "zh-Hant": "大褲子",
+    "zh-Hans": "帅气裤子商"
   }
 }

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pl
-  m_SharedData: {fileID: 11400000, guid: a9cc01bc968b58c49a61e7896f441eb6, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 6588b66b7ff374e43b8e9a2f51fc8046, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -600,6 +600,36 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1496553099325603855
+  - m_Id: 76484134191443968
+    m_Localized: Odzyskaj PZ po śmierci wroga.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804096
+    m_Localized: Otrzymuj monety po śmierci wroga.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804097
+    m_Localized: Łamacz combo
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804098
+    m_Localized: Ta karta zawsze zyskuje na combo, ale również je przerywa.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804099
+    m_Localized: Przerywa combo, ale zawsze korzysta z mnożnika.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76512690875346944
+    m_Localized: Zużywa combo, aby skorzystać z mnożnika.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:

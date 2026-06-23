@@ -798,7 +798,7 @@
     "zh-Hans": null
   },
   "GEM_DESC_ARCANE": {
-    "en": "If the card would reduce Mana to 0, recieve double Mana instead.",
+    "en": "If the card would reduce Mana to 0, receive double Mana instead.",
     "fr": "Si la carte réduit le Mana à 0, vous recevez le double de Mana à la place.",
     "it": "Se questa carta riduce a 0 il mana, ne guadagni il doppio invece.",
     "de": "Würde diese Karte dein letztes Mana kosten, erhältst du stattdessen doppeltes Mana.",
@@ -1832,5 +1832,89 @@
     "ko": "X {GlobalKeywords.Mana}",
     "zh-Hant": "x {GlobalKeywords.Mana}",
     "zh-Hans": "X {GlobalKeywords.Mana}"
+  },
+  "GEM_DESC_DRAIN_NEW": {
+    "en": "Heals when enemy dies.",
+    "fr": "Vous soigne lorsqu'un ennemi meurt.",
+    "it": "Guarisce alla morte del nemico.",
+    "de": "Heilt, wenn ein Gegner stirbt.",
+    "es": "Te curas cuando muere un enemigo.",
+    "pt-BR": "Cura quando um inimigo morre.",
+    "pl": "Odzyskaj PZ po śmierci wroga.",
+    "ru": "Восполняет здоровье, когда погибает враг.",
+    "ja": "敵が死ぬと回復する。",
+    "ko": "적이 죽으면 치유됩니다.",
+    "zh-Hant": "敵人死亡時進行治療。",
+    "zh-Hans": "在敌人死亡时获得治疗。"
+  },
+  "GEM_DESC_STEAL_NEW": {
+    "en": "Earns coins when enemy dies.",
+    "fr": "Octroie des pièces lorsqu'un ennemi meurt.",
+    "it": "Guadagna monete quando il nemico muore.",
+    "de": "Erhalte Münzen, wenn ein Gegner stirbt.",
+    "es": "Ganas monedas cuando muere un enemigo.",
+    "pt-BR": "Ganha moedas quando um inimigo morre.",
+    "pl": "Otrzymuj monety po śmierci wroga.",
+    "ru": "Зарабатывает монеты, когда враг погибает.",
+    "ja": "敵が死ぬとコインを獲得する。",
+    "ko": "적이 죽으면 코인을 얻습니다.",
+    "zh-Hant": "敵人死亡時，可以賺取金幣。",
+    "zh-Hans": "在敌人死亡时获得金币。"
+  },
+  "GEM_NAME_DISCHARGE_NEW": {
+    "en": "Combo Breaker",
+    "fr": "Brise-combo",
+    "it": "Spaccacombo",
+    "de": "Kombobrecher",
+    "es": "Rompecombos",
+    "pt-BR": "Quebra-Combo",
+    "pl": "Łamacz combo",
+    "ru": "Разрушитель комбо",
+    "ja": "コンボブレイカー",
+    "ko": "콤보 브레이커",
+    "zh-Hant": "連擊終結者",
+    "zh-Hans": "连击终结者"
+  },
+  "GEM_DESC_DISCHARGE_NEW": {
+    "en": "The card always benefits from combo, but will end it too.",
+    "fr": "Cette carte bénéficie toujours des combos, mais elle y mettra également un terme.",
+    "it": "Questa carta beneficia sempre delle combo, ma le interrompe.",
+    "de": "Die Karte profitiert immer von der Kombo, setzt sie aber auch zurück.",
+    "es": "La carta siempre se beneficia de los combos, pero también los interrumpirá.",
+    "pt-BR": "Esta carta sempre se beneficia de um combo, mas também pode acabar com ele.",
+    "pl": "Ta karta zawsze zyskuje na combo, ale również je przerywa.",
+    "ru": "Эта карта всегда использует множитель комбо, но также и завершает его.",
+    "ja": "カードは必ずコンボの恩恵を受けるが、同時にコンボを終わらせてしまう。",
+    "ko": "이 카드는 항상 콤보를 통해 이득을 보지만, 콤보를 끝낼 수도 있습니다.",
+    "zh-Hant": "這張卡牌在任何情況下都能夠獲得連擊加成的效果，但也會終結掉當下的連擊",
+    "zh-Hans": "此牌始终会获得连击增益，但也会终结连击。"
+  },
+  "GEM_DESC_DISCHARGE_NEW2": {
+    "en": "Ends combo but always benefits from the multiplier.",
+    "fr": "Met un terme au combo, mais bénéficie constamment du multiplicateur.",
+    "it": "Interrompe le combo, ma beneficia sempre del moltiplicatore.",
+    "de": "Setzt die Kombo zurück, profitiert aber immer vom Multiplikator.",
+    "es": "Interrumpe los combos, pero siempre se beneficia del multiplicador.",
+    "pt-BR": "Acaba com combos, mas sempre se beneficia do multiplicador.",
+    "pl": "Przerywa combo, ale zawsze korzysta z mnożnika.",
+    "ru": "Завершает комбо, но всегда использует его множитель.",
+    "ja": "コンボは終了するが、常に倍率の恩恵を受ける。",
+    "ko": "콤보를 종료시키지만 항상 배율로 이점을 얻습니다.",
+    "zh-Hant": "會終結連擊，但一定能夠吃到連擊的倍率加成",
+    "zh-Hans": "终结连击，但始终会获得倍数增益。"
+  },
+  "GEM_DESC_DISCHARGE_NEW3": {
+    "en": "Consumes the combo to benefit from the multiplier.",
+    "fr": "Consomme le combo afin de bénéficier du multiplicateur.",
+    "it": "Consuma le combo per beneficiare del moltiplicatore.",
+    "de": "Profitiert vom Multiplikator und beendet die Kombo.",
+    "es": "Consume el combo para beneficiarse del multiplicador.",
+    "pt-BR": "Consome o combo para se beneficiar do multiplicador.",
+    "pl": "Zużywa combo, aby skorzystać z mnożnika.",
+    "ru": "Завершает комбо, чтобы использовать его множитель.",
+    "ja": "コンボを発動させて、倍率の恩恵を受ける。",
+    "ko": "콤보를 소모하여 배율 효과를 얻습니다.",
+    "zh-Hant": "犧牲連擊，好藉此獲得倍率加成的效果",
+    "zh-Hans": "通过消耗连击来获得倍数增益。"
   }
 }

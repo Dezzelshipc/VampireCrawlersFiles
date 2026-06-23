@@ -1770,6 +1770,41 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 210570225113837568
+    m_Key: KNOCKBACK_GARLIC_KEYWORD_DESC_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210570225151586304
+    m_Key: KNOCKBACK_SOUL_EATER_KEYWORD_DESC_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226432
+    m_Key: DISCHARGE_KEYWORD_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226433
+    m_Key: DISCHARGE_KEYWORD_DESC_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226434
+    m_Key: DISCHARGE_KEYWORD_DESC_NEW2
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226435
+    m_Key: DISCHARGE_KEYWORD_DESC_NEW3
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 219562269966544896
+    m_Key: CARD_TYPE_RAINBOW_DESC_NEW
+    m_Metadata:
+      m_Items:
+        Array: []
   m_Metadata:
     m_Items:
       Array: []

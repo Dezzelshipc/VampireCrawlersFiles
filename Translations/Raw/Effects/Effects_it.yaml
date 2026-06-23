@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: it
-  m_SharedData: {fileID: 11400000, guid: 8d6b065a4bd7a0d4cb0c54096e944c85, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e1ba060edadf0744aad16c0cca5e1b7d, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -1827,6 +1827,43 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1186001538324365344
+  - m_Id: 210570225113837568
+    m_Localized: Elevata probabilità di impedire una singola azione nemica.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210570225151586304
+    m_Localized: Elevata probabilità di impedire {ActionValue:N0} azioni nemiche.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365344
+  - m_Id: 210600141054226432
+    m_Localized: '{:color(Keyword):Spaccacombo}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365344
+  - m_Id: 210600141054226433
+    m_Localized: Questa carta beneficia sempre delle combo, ma le interrompe.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226434
+    m_Localized: Interrompe le combo ma beneficia sempre del moltiplicatore.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 210600141054226435
+    m_Localized: Consuma le combo per beneficiare del moltiplicatore.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 219562269966544896
+    m_Localized: Attivi tutte le abilità attive dei Crawler.
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -2072,4 +2109,6 @@ MonoBehaviour:
         - id: 191747417810395136
         - id: 191747417848143872
         - id: 195294087462465536
+        - id: 210570225151586304
+        - id: 210600141054226432
 

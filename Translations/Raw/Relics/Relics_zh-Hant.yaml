@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hant
-  m_SharedData: {fileID: 11400000, guid: ce1bf3ff8da94084c81bdb47ead05c4f, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 80fe4d5f5cb76da468c8d1b181a5a9d3, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -264,6 +264,16 @@ MonoBehaviour:
         - rid: 1186001538324365345
   - m_Id: 139227927105449984
     m_Localized: 秘法牌探測器
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 157993411757944832
+    m_Localized: 第七號角
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 157993411795693568
+    m_Localized: 在地圖介面中加入「無盡模式」的按鈕。
     m_Metadata:
       m_Items:
         Array: []

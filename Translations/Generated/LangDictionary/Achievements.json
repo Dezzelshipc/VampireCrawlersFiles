@@ -7188,7 +7188,7 @@
     "de": "Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_D_3_ClockLancet.Name}“-Karten aus.",
     "es": "{db.Cards.Card_D_3_ClockLancet.Name}: juega esta {Achievement.Value:p:carta|carta {:N0} veces}.",
     "pt-BR": "Jogue a {db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p:|{:N0} vezes}.",
-    "pl": "Zagraj {Achievement.Value:p:kartę|kartę|kartę} {db.Cards.Card_D_3_ClockLancet.Name} {:N0} razy.",
+    "pl": "Zagraj {Achievement.Value:p:kartę|kartę|kartę} {db.Cards.Card_D_3_ClockLancet.Name} {Achievement.Value:N0} razy.",
     "ru": "Разыграйте {Achievement.Value:p:карту «{db.Cards.Card_D_3_ClockLancet.Name}»|карту «{db.Cards.Card_D_3_ClockLancet.Name}» {:N0} раза|карту «{db.Cards.Card_D_3_ClockLancet.Name}» {:N0} раз}.",
     "ja": "{db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p: カード|カードを{:N0}回}プレイする。",
     "ko": "{db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p: 카드를|카드를 {:N0}번 플레이하세요}.",
@@ -8398,5 +8398,47 @@
     "ko": "마나 X 피해량 {GlobalKeywords.Gem}",
     "zh-Hant": "法力 x 傷害{GlobalKeywords.Gem}",
     "zh-Hans": "法力X伤害{GlobalKeywords.Gem}"
+  },
+  "ACHIEVEMENT_UNLOCK_TRUMPET": {
+    "en": "Unlock {db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "fr": "Débloquez {db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "it": "Sblocca {db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "de": "„{db.relic.RelicConfig_SeventhTrumpet.Name}“ freigeschaltet",
+    "es": "Desbloquea: Séptima trompeta.",
+    "pt-BR": "Desbloqueie a {db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "pl": "Odblokuj Siódmą trąbę",
+    "ru": "Откройте: {db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "ja": "{db.relic.RelicConfig_SeventhTrumpet.Name} をアンロック",
+    "ko": "{db.relic.RelicConfig_SeventhTrumpet.Name} 잠금 해제",
+    "zh-Hant": "解鎖「{db.relic.RelicConfig_SeventhTrumpet.Name}」",
+    "zh-Hans": "解锁{db.relic.RelicConfig_SeventhTrumpet.Name}"
+  },
+  "ACHIEVEMENT_UNLOCK_TRUMPET_DESC": {
+    "en": "Find the {db.relic.RelicConfig_SeventhTrumpet.Name} {GlobalKeywords.Relic}.",
+    "fr": "Trouvez la {GlobalKeywords.Relic} {db.relic.RelicConfig_SeventhTrumpet.Name}.",
+    "it": "Trova la {GlobalKeywords.Relic} {db.relic.RelicConfig_SeventhTrumpet.Name}.",
+    "de": "Finde das {GlobalKeywords.Relic} „{db.relic.RelicConfig_SeventhTrumpet.Name}“.",
+    "es": "Encuentra la {GlobalKeywords.Relic} Séptima trompeta.",
+    "pt-BR": "Encontre a {GlobalKeywords.Relic} {db.relic.RelicConfig_SeventhTrumpet.Name}.",
+    "pl": "Znajdź relikwię {db.relic.RelicConfig_SeventhTrumpet.Name}.",
+    "ru": "Найдите реликвию «{db.relic.RelicConfig_SeventhTrumpet.Name}».",
+    "ja": "{db.relic.RelicConfig_SeventhTrumpet.Name} {GlobalKeywords.Relic} を見つける。",
+    "ko": "{db.relic.RelicConfig_SeventhTrumpet.Name} {GlobalKeywords.Relic}을 찾으세요.",
+    "zh-Hant": "找到{GlobalKeywords.Relic}「{db.relic.RelicConfig_SeventhTrumpet.Name}」。",
+    "zh-Hans": "找到{db.relic.RelicConfig_SeventhTrumpet.Name}{GlobalKeywords.Relic}。"
+  },
+  "REWARD_TRUMPET": {
+    "en": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "fr": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "it": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "de": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "es": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "pt-BR": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "pl": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "ru": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "ja": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "ko": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "zh-Hant": "{db.relic.RelicConfig_SeventhTrumpet.Name}",
+    "zh-Hans": "{db.relic.RelicConfig_SeventhTrumpet.Name}"
   }
 }

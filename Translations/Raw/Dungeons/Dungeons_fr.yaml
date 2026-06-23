@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: fr
-  m_SharedData: {fileID: 11400000, guid: da26dbe70fa206544a1ef15e3692da6c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -178,6 +178,51 @@ MonoBehaviour:
         Array: []
   - m_Id: 5409240946401286
     m_Localized: Un pont à l'air innocent malgré son nom intimidant. Qu'est-ce qui pourrait mal tourner ?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120258600960
+    m_Localized: Clair de lune
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738304
+    m_Localized: Prologue de Clair de lune
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738305
+    m_Localized: Ici, quelque chose se cache sous la mer éclairée par la lune…
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738306
+    m_Localized: Mystère au clair de lune
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738307
+    m_Localized: Chambre submergée
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738308
+    m_Localized: Que se cache-t-il sous les vagues… ? Une simple rencontre avec un PNJ, ou bien un rapide aperçu de nouveau contenu à venir ?
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738309
+    m_Localized: Au fond de la mer, un étranger attend les plus courageux des explorateurs.   Par contre, l'eau, ça mouille, alors n'oubliez pas votre serviette.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738310
+    m_Localized: Clair de lune
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 195993120304738311
+    m_Localized: La légende parle d'une ville engloutie par les eaux un soir de pleine lune. Allons voir quels mystères se cachent dans les entrailles de cette cité.
     m_Metadata:
       m_Items:
         Array: []

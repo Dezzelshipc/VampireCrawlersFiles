@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: 6974a549237cf8d4c85f8644b7bb71f5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: d4ccb0554ccdaa747a346f153e8d2595, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -119,7 +119,7 @@ MonoBehaviour:
         - rid: -2
         - rid: 1496553099325603851
   - m_Id: 89504348733440
-    m_Localized: '{Date:MMMM d, yyyy h:mm tt}'
+    m_Localized: '{Date:f}'
     m_Metadata:
       m_Items:
         Array:
@@ -286,7 +286,7 @@ MonoBehaviour:
         Array:
         - rid: 1496553099325603851
   - m_Id: 402859882020864
-    m_Localized: "{GlobalKeywords.Luck} 행운을 높이면\n4가지 선택지를 얻을 기회가 생깁니다"
+    m_Localized: '{GlobalKeywords.Luck}을 높이면 4가지 선택지를 얻을 기회가 생깁니다'
     m_Metadata:
       m_Items:
         Array:
@@ -653,7 +653,7 @@ MonoBehaviour:
         Array:
         - rid: 1496553099325603851
   - m_Id: 40213610231836674
-    m_Localized: '{:color(Building):{GlobalKeywords.Achievements}} 업적을 확인하세요.'
+    m_Localized: '{:color(Building):{GlobalKeywords.Achievements}} 확인하세요.'
     m_Metadata:
       m_Items:
         Array:
@@ -694,13 +694,13 @@ MonoBehaviour:
         Array:
         - rid: 1496553099325603851
   - m_Id: 55506202922135552
-    m_Localized: '{GlobalKeywords.Crawler} 크롤러를 선택하세요'
+    m_Localized: '{GlobalKeywords.Crawler}를 선택하세요'
     m_Metadata:
       m_Items:
         Array:
         - rid: 1496553099325603851
   - m_Id: 55506202934718464
-    m_Localized: '{GlobalKeywords.Arcana} 아르카나를 선택하세요'
+    m_Localized: '{GlobalKeywords.Arcana}를 선택하세요'
     m_Metadata:
       m_Items:
         Array:
@@ -872,7 +872,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 96781231948029952
-    m_Localized: 턴
+    m_Localized: 회전
     m_Metadata:
       m_Items:
         Array: []
@@ -960,7 +960,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 84063263239577600
-    m_Localized: '{GlobalKeywords.Crawler} 크롤러를 모집하면 코인 {CoinCost:color(Building):N0} 개를 드립니다.'
+    m_Localized: 코인 {CoinCost:color(Building):N0} 개로 {GlobalKeywords.Crawler}를 모집합니다.
     m_Metadata:
       m_Items:
         Array:
@@ -977,7 +977,7 @@ MonoBehaviour:
       m_Items:
         Array: []
   - m_Id: 86314990444818432
-    m_Localized: 이 {GlobalKeywords.Relic} 유물은 이미 발견되었습니다. {:color(Building):{GlobalKeywords.Museum}}에서 확인할 수 있습니다.
+    m_Localized: 이 {GlobalKeywords.Relic}은 이미 발견되었습니다. {:color(Building):{GlobalKeywords.Museum}}에서 확인할 수 있습니다.
     m_Metadata:
       m_Items:
         Array:
@@ -1884,6 +1884,190 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
         Array: []
+  - m_Id: 205459670092881920
+    m_Localized: '최상: {furthestFloor}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603851
+  - m_Id: 213505174802407424
+    m_Localized: '{dungeonName}: 무한'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603851
+  - m_Id: 205456101243494400
+    m_Localized: 무한
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679467786240
+    m_Localized: 추가
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 211304679497146368
+    m_Localized: 보석상이 비활성화됨
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213166942531346432
+    m_Localized: '진화:'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248670867456
+    m_Localized: 스토어에서 확인하세요!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810496
+    m_Localized: 지금 이용 가능!
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810497
+    m_Localized: 스토어 페이지
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810498
+    m_Localized: 지금 구매
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810499
+    m_Localized: 종류
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810500
+    m_Localized: 정렬 기준
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213902248712810501
+    m_Localized: 정렬 버튼을 짧게 누르면 손을 정렬할 수 있고, 길게 누르면 정렬 기준을 전환할 수 있습니다.
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738308358144
+    m_Localized: '참고: 정렬 버튼을 짧게 누르는 대신 길게 누르면 정렬 방식을 변경할 수 있습니다.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 213963738316746752
+    m_Localized: '참고: 정렬 방식을 변경하려면 정렬 버튼을 짧게 누르는 대신 길게 누르세요.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 215318707187998720
+    m_Localized: 카드 플레이
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488358301696
+    m_Localized: '참고: 행운 수치를 높이면 레벨 업 시 더 희귀한 보석을 얻을 확률이 증가합니다.'
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633344
+    m_Localized: 저장 후 종료
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 216014488408633345
+    m_Localized: 최고 기록 경신
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521574731776
+    m_Localized: 다음/이전 카테고리
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 218177521616674816
+    m_Localized: 다음/이전 카드
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502103601152
+    m_Localized: 저장 후 데스크톱으로 나가기
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221060502124572672
+    m_Localized: '{GlobalKeywords.Crawlers}/{GlobalKeywords.Arcana} 전환'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603851
+  - m_Id: 221133792394424320
+    m_Localized: 툴팁 설정
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590144
+    m_Localized: 모두 보기
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590145
+    m_Localized: 감추기
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221133792419590146
+    m_Localized: '{GlobalKeywords.Crawlers}/{GlobalKeywords.Arcana}만 보기'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1496553099325603851
+  - m_Id: 221133792419590147
+    m_Localized: 카드만 보기
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221394874886250496
+    m_Localized: 메인 메뉴
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545463857152
+    m_Localized: 툴 팁
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634368
+    m_Localized: 팝업 정보창
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634369
+    m_Localized: 모두
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634370
+    m_Localized: 카드만
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 221428545480634371
+    m_Localized: 끄기
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223305806126243840
+    m_Localized: 단일 버튼 카드 정렬
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 223975027587887104
+    m_Localized: 기본
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:
@@ -1980,4 +2164,8 @@ MonoBehaviour:
         - id: 157851068723572740
         - id: 187718176982642696
         - id: 190734195120615436
+        - id: 205459670092881920
+        - id: 213505174802407424
+        - id: 221060502124572672
+        - id: 221133792419590146
 

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hant
-  m_SharedData: {fileID: 11400000, guid: a9cc01bc968b58c49a61e7896f441eb6, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 6588b66b7ff374e43b8e9a2f51fc8046, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -598,6 +598,36 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 4841317358791295098
+  - m_Id: 76484134191443968
+    m_Localized: 敵人死亡時進行治療。
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804096
+    m_Localized: 敵人死亡時，可以賺取金幣。
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804097
+    m_Localized: 連擊終結者
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804098
+    m_Localized: 這張卡牌在任何情況下都能夠獲得連擊加成的效果，但也會終結掉當下的連擊
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76484134220804099
+    m_Localized: 會終結連擊，但一定能夠吃到連擊的倍率加成
+    m_Metadata:
+      m_Items:
+        Array: []
+  - m_Id: 76512690875346944
+    m_Localized: 犧牲連擊，好藉此獲得倍率加成的效果
+    m_Metadata:
+      m_Items:
+        Array: []
   references:
     version: 2
     RefIds:

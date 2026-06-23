@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: fr
-  m_SharedData: {fileID: 11400000, guid: daf53a470998575449388396be1b0785, type: 2}
+  m_SharedData: {fileID: 11400000, guid: e9efefa0ee8352b45955b9ef7674228a, type: 2}
   m_Metadata:
     m_Items:
       Array:
@@ -2489,6 +2489,24 @@ MonoBehaviour:
       m_Items:
         Array:
         - rid: 1186001538324365359
+  - m_Id: 195381509462372352
+    m_Localized: Débloquez {db.relic.RelicConfig_SeventhTrumpet.Name}
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365359
+  - m_Id: 195381509508509696
+    m_Localized: Trouvez la {GlobalKeywords.Relic} {db.relic.RelicConfig_SeventhTrumpet.Name}.
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365359
+  - m_Id: 195381509508509697
+    m_Localized: '{db.relic.RelicConfig_SeventhTrumpet.Name}'
+    m_Metadata:
+      m_Items:
+        Array:
+        - rid: 1186001538324365359
   references:
     version: 2
     RefIds:
@@ -2924,4 +2942,7 @@ MonoBehaviour:
         - id: 138926001482575918
         - id: 24967580072370176
         - id: 172430218557861888
+        - id: 195381509462372352
+        - id: 195381509508509696
+        - id: 195381509508509697
 
