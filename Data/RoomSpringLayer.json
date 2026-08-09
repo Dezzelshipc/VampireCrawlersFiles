@@ -1,0 +1,1887 @@
+{
+  "RoomSpringLayer_CappellaMagna_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_CappellaMagna_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_CappellaMagna_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_CappellaMagna_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_CappellaMagna_01_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": {
+      "_badExitDirectionAngleThreshold": 90,
+      "_mapBoundingBoxBorder": 2,
+      "_initialPositionOffset": 5,
+      "_initialSpringLoopIterations": 200,
+      "_secondPassSpringLoopIterations": 200,
+      "_neighbourhoodDistance": 3.5,
+      "_targetNeighbourSeparation": 1.75,
+      "_separationSpringStrength": 40,
+      "_boundarySpringStrength": 50,
+      "_boundarySpringPadding": 0.1,
+      "_centrePullSpringStrength": 0.5,
+      "_dampeningStrength": 10,
+      "_springIntegrationDeltaTime": 0.01,
+      "_allowedUncontainedRooms": 2,
+      "_allowedUncontainedCells": 6,
+      "m_Name": "CappellaMagna_01F5_SpringRoomGenerationConfig"
+    },
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_CappellaMagna_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_CappellaMagna_02_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_CappellaMagna_02_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_CappellaMagna_02_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.75,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 1
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Shape_O",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1.25,
+            "CentreSpringScale": 1.5,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_Multi_4x3-4x4-5x3",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.25,
+            "CentreSpringScale": -1,
+            "CentreSpawnOffsetScale": 0.5
+          }
+        }
+      ],
+      "m_Name": "CappellaMagnaSpringRoomGenerationRules"
+    },
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_01_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_02_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_02_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_02_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_02_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_03_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_03_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_03_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_03_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_DairyPlant_03_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_GalloTower_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 5,
+            "CentreSpringScale": 50,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_2x2",
+              "InvertFilter": 0
+            },
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1,
+            "CentreSpringScale": -10,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.5,
+            "CentreSpringScale": -5,
+            "CentreSpawnOffsetScale": 1
+          }
+        }
+      ],
+      "m_Name": "GalloSpringRoomGenerationRules"
+    },
+    "_configOverride": {
+      "_badExitDirectionAngleThreshold": 70,
+      "_mapBoundingBoxBorder": 2,
+      "_initialPositionOffset": 5,
+      "_initialSpringLoopIterations": 400,
+      "_secondPassSpringLoopIterations": 400,
+      "_neighbourhoodDistance": 3.5,
+      "_targetNeighbourSeparation": 1.75,
+      "_separationSpringStrength": 80,
+      "_boundarySpringStrength": 50,
+      "_boundarySpringPadding": 0.1,
+      "_centrePullSpringStrength": 1,
+      "_dampeningStrength": 10,
+      "_springIntegrationDeltaTime": 0.01,
+      "_allowedUncontainedRooms": 20,
+      "_allowedUncontainedCells": 4,
+      "m_Name": "GalloSpringRoomGenerationConfig"
+    },
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 1,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_GalloTower_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 5,
+            "CentreSpringScale": 50,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_2x2",
+              "InvertFilter": 0
+            },
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1,
+            "CentreSpringScale": -10,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.5,
+            "CentreSpringScale": -5,
+            "CentreSpawnOffsetScale": 1
+          }
+        }
+      ],
+      "m_Name": "GalloSpringRoomGenerationRules"
+    },
+    "_configOverride": {
+      "_badExitDirectionAngleThreshold": 70,
+      "_mapBoundingBoxBorder": 2,
+      "_initialPositionOffset": 5,
+      "_initialSpringLoopIterations": 400,
+      "_secondPassSpringLoopIterations": 400,
+      "_neighbourhoodDistance": 3.5,
+      "_targetNeighbourSeparation": 1.75,
+      "_separationSpringStrength": 80,
+      "_boundarySpringStrength": 50,
+      "_boundarySpringPadding": 0.1,
+      "_centrePullSpringStrength": 1,
+      "_dampeningStrength": 10,
+      "_springIntegrationDeltaTime": 0.01,
+      "_allowedUncontainedRooms": 20,
+      "_allowedUncontainedCells": 4,
+      "m_Name": "GalloSpringRoomGenerationConfig"
+    },
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 1,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_GalloTower_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 5,
+            "CentreSpringScale": 50,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_2x2",
+              "InvertFilter": 0
+            },
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1,
+            "CentreSpringScale": -10,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.5,
+            "CentreSpringScale": -5,
+            "CentreSpawnOffsetScale": 1
+          }
+        }
+      ],
+      "m_Name": "GalloSpringRoomGenerationRules"
+    },
+    "_configOverride": {
+      "_badExitDirectionAngleThreshold": 70,
+      "_mapBoundingBoxBorder": 2,
+      "_initialPositionOffset": 5,
+      "_initialSpringLoopIterations": 400,
+      "_secondPassSpringLoopIterations": 400,
+      "_neighbourhoodDistance": 3.5,
+      "_targetNeighbourSeparation": 1.75,
+      "_separationSpringStrength": 80,
+      "_boundarySpringStrength": 50,
+      "_boundarySpringPadding": 0.1,
+      "_centrePullSpringStrength": 1,
+      "_dampeningStrength": 10,
+      "_springIntegrationDeltaTime": 0.01,
+      "_allowedUncontainedRooms": 20,
+      "_allowedUncontainedCells": 4,
+      "m_Name": "GalloSpringRoomGenerationConfig"
+    },
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 1,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_GalloTower_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 5,
+            "CentreSpringScale": 50,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_2x2",
+              "InvertFilter": 0
+            },
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1,
+            "CentreSpringScale": -10,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.5,
+            "CentreSpringScale": -5,
+            "CentreSpawnOffsetScale": 1
+          }
+        }
+      ],
+      "m_Name": "GalloSpringRoomGenerationRules"
+    },
+    "_configOverride": {
+      "_badExitDirectionAngleThreshold": 70,
+      "_mapBoundingBoxBorder": 2,
+      "_initialPositionOffset": 5,
+      "_initialSpringLoopIterations": 400,
+      "_secondPassSpringLoopIterations": 400,
+      "_neighbourhoodDistance": 3.5,
+      "_targetNeighbourSeparation": 1.75,
+      "_separationSpringStrength": 80,
+      "_boundarySpringStrength": 50,
+      "_boundarySpringPadding": 0.1,
+      "_centrePullSpringStrength": 1,
+      "_dampeningStrength": 10,
+      "_springIntegrationDeltaTime": 0.01,
+      "_allowedUncontainedRooms": 20,
+      "_allowedUncontainedCells": 4,
+      "m_Name": "GalloSpringRoomGenerationConfig"
+    },
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 1,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_GalloTower_01_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": {
+      "_rules": [
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 0
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 5,
+            "CentreSpringScale": 50,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Room_2x2",
+              "InvertFilter": 0
+            },
+            {
+              "Tag": "Tag_Room_Balcony",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 1,
+            "CentreSpringScale": -10,
+            "CentreSpawnOffsetScale": 0
+          }
+        },
+        {
+          "Tags": [
+            {
+              "Tag": "Tag_Central",
+              "InvertFilter": 1
+            }
+          ],
+          "Config": {
+            "BoundarySpringScale": 0.5,
+            "CentreSpringScale": -5,
+            "CentreSpawnOffsetScale": 1
+          }
+        }
+      ],
+      "m_Name": "GalloSpringRoomGenerationRules"
+    },
+    "_configOverride": {
+      "_badExitDirectionAngleThreshold": 70,
+      "_mapBoundingBoxBorder": 2,
+      "_initialPositionOffset": 5,
+      "_initialSpringLoopIterations": 400,
+      "_secondPassSpringLoopIterations": 400,
+      "_neighbourhoodDistance": 3.5,
+      "_targetNeighbourSeparation": 1.75,
+      "_separationSpringStrength": 80,
+      "_boundarySpringStrength": 50,
+      "_boundarySpringPadding": 0.1,
+      "_centrePullSpringStrength": 1,
+      "_dampeningStrength": 10,
+      "_springIntegrationDeltaTime": 0.01,
+      "_allowedUncontainedRooms": 20,
+      "_allowedUncontainedCells": 4,
+      "m_Name": "GalloSpringRoomGenerationConfig"
+    },
+    "_maximumPossibleDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_targetDungeonSize": {
+      "x": 4,
+      "y": 4
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 1,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_01_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_02_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_02_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_02_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_02_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_03_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_03_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_03_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_03_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_InlaidLibrary_03_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_02_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_02_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_02_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_02_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_03_F1": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_03_F2": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_03_F3": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 7,
+      "y": 7
+    },
+    "_targetDungeonSize": {
+      "x": 5,
+      "y": 5
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_03_F4": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_targetDungeonSize": {
+      "x": 6,
+      "y": 6
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_MadForest_03_F5": {
+    "_shouldDrawDebug": 1,
+    "_progressDelay": 0,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 0,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "PassiveEvent_ArcanaChoice": {
+    "_assetId": "PassiveEvent_ArcanaChoice",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_ArcanaChoice"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Arcana_Collision",
+    "PassiveEventView": "PassiveEvent_ArcanaChoice",
+    "PassiveEventName": "PassiveArcanaChoice"
+  },
+  "PassiveEvent_CardStatOfferingTable": {
+    "_assetId": "PassiveEvent_CardStatOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_CardStatOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.5,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 4,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Red_Vending_Collision",
+    "PassiveEventView": "PassiveEvent_CardStatOfferingTable",
+    "PassiveEventName": "CardStatOfferingTable"
+  },
+  "PassiveEvent_ChickenOfferingTable": {
+    "_assetId": "PassiveEvent_ChickenOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_ChickenOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.5,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 20,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Chicken_Shop_Collision",
+    "PassiveEventView": "PassiveEvent_ChickenOfferingTable",
+    "PassiveEventName": "ChickenOfferingTable"
+  },
+  "PassiveEvent_Crystal": {
+    "_assetId": "PassiveEvent_Crystal",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Crystal"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "PassiveEventView": "PassiveEvent_Crystal",
+    "PassiveEventName": "PassiveCrystal"
+  },
+  "PassiveEvent_DarkanaChoice": {
+    "_assetId": "PassiveEvent_DarkanaChoice",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_DarkanaChoice"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "PassiveEventView": "PassiveEvent_DarkanaChoice",
+    "PassiveEventName": "PassiveDarkanaChoice"
+  },
+  "PassiveEvent_DuplicateOfferingTable": {
+    "_assetId": "PassiveEvent_DuplicateOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_DuplicateOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.3,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 20,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Duplicator_Collision",
+    "PassiveEventView": "PassiveEvent_DuplicateOfferingTable",
+    "PassiveEventName": "DuplicateOfferingTable"
+  },
+  "PassiveEvent_EnderCardThrow": {
+    "_assetId": "PassiveEvent_EnderCardThrow",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Empty"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "PassiveEventView": "PassiveEvent_EnderCardThrow",
+    "PassiveEventName": "EnderCardThrow"
+  },
+  "PassiveEvent_EvoTable": {
+    "_assetId": "PassiveEvent_EvoTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_EvoTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.4,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 20,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Evo_Table_Collision",
+    "PassiveEventView": "PassiveEvent_EvoTable",
+    "PassiveEventName": "EvoTable"
+  },
+  "PassiveEvent_FloorChicken": {
+    "_assetId": "PassiveEvent_FloorChicken",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_FloorChicken"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "PassiveEventView": "PassiveEvent_FloorChicken",
+    "PassiveEventName": "PassiveFloorChicken"
+  },
+  "PassiveEvent_GemChest": {
+    "_assetId": "PassiveEvent_GemChest",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_GemChest"
+    },
+    "_allowEventDetailsOverride": 0,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "[None]",
+    "PassiveEventView": "PassiveEvent_GemChest",
+    "PassiveEventName": "GemChest"
+  },
+  "PassiveEvent_GemChest_Silver": {
+    "_assetId": "PassiveEvent_GemChest_Silver",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_GemChest_Silver"
+    },
+    "_allowEventDetailsOverride": 0,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.5,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "[None]",
+    "PassiveEventView": "PassiveEvent_GemChest_Silver",
+    "PassiveEventName": "GemChest_Silver"
+  },
+  "PassiveEvent_GunForHire": {
+    "_assetId": "PassiveEvent_GunForHire",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_GunForHire"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.25,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Gun_For_Hire_Collision",
+    "PassiveEventView": "PassiveEvent_GunForHire",
+    "PassiveEventName": "GunForHire"
+  },
+  "PassiveEvent_Mana": {
+    "_assetId": "PassiveEvent_Mana",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Mana"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "PassiveEventView": "PassiveEvent_Mana",
+    "PassiveEventName": "PassiveMana"
+  },
+  "PassiveEvent_ManaOfferingTable": {
+    "_assetId": "PassiveEvent_ManaOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_ManaOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.097,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 30,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Mana_Collision",
+    "PassiveEventView": "PassiveEvent_ManaOfferingTable",
+    "PassiveEventName": "ManaOfferingTable"
+  },
+  "PassiveEvent_RandomStatOfferingTable": {
+    "_assetId": "PassiveEvent_RandomStatOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_RandomOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.5,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 20,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Blue_Vending_Collision",
+    "PassiveEventView": "PassiveEvent_RandomStatOfferingTable",
+    "PassiveEventName": "RandomStatOfferingTable"
+  },
+  "Test_PassiveEvent_ArcanaChoice": {
+    "_assetId": "Test_PassiveEvent_ArcanaChoice",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_ArcanaChoice"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Arcana_Collision",
+    "PassiveEventView": "PassiveEvent_ArcanaChoice",
+    "PassiveEventName": "PassiveArcanaChoice"
+  },
+  "Test_PassiveEvent_CardStatOfferingTable": {
+    "_assetId": "Test_PassiveEvent_CardStatOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_CardStatOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.5,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 4,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Red_Vending_Collision",
+    "PassiveEventView": "PassiveEvent_CardStatOfferingTable",
+    "PassiveEventName": "CardStatOfferingTable"
+  },
+  "Test_PassiveEvent_ChickenOfferingTable": {
+    "_assetId": "Test_PassiveEvent_ChickenOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_ChickenOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.5,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 20,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Chicken_Shop_Collision",
+    "PassiveEventView": "PassiveEvent_ChickenOfferingTable",
+    "PassiveEventName": "ChickenOfferingTable"
+  },
+  "Test_PassiveEvent_Crystal": {
+    "_assetId": "Test_PassiveEvent_Crystal",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Crystal"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "PassiveEventView": "PassiveEvent_Crystal",
+    "PassiveEventName": "PickupGem"
+  },
+  "Test_PassiveEvent_DuplicateOfferingTable": {
+    "_assetId": "Test_PassiveEvent_DuplicateOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_DuplicateOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.3,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 20,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Duplicator_Collision",
+    "PassiveEventView": "PassiveEvent_DuplicateOfferingTable",
+    "PassiveEventName": "DuplicateOfferingTable"
+  },
+  "Test_PassiveEvent_FloorChicken": {
+    "_assetId": "Test_PickupEvent_FloorChicken",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_FloorChicken"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "PassiveEventView": "PassiveEvent_FloorChicken",
+    "PassiveEventName": "FloorChicken"
+  },
+  "Test_PassiveEvent_GemChest": {
+    "_assetId": "Test_PassiveEvent_GemChest",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_GemChest"
+    },
+    "_allowEventDetailsOverride": 0,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "[None]",
+    "PassiveEventView": "PassiveEvent_GemChest",
+    "PassiveEventName": "GemChest"
+  },
+  "Test_PassiveEvent_GemChest_Silver": {
+    "_assetId": "Test_PassiveEvent_GemChest_Silver",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_GemChest_Silver"
+    },
+    "_allowEventDetailsOverride": 0,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.5,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "[None]",
+    "PassiveEventView": "PassiveEvent_GemChest_Silver",
+    "PassiveEventName": "GemChest_Silver"
+  },
+  "Test_PassiveEvent_GunForHire": {
+    "_assetId": "Test_PassiveEvent_GunForHire",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_GunForHire"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.25,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Gun_For_Hire_Collision",
+    "PassiveEventView": "PassiveEvent_GunForHire",
+    "PassiveEventName": "GunForHire"
+  },
+  "Test_PassiveEvent_Mana": {
+    "_assetId": "Test_PickupEvent_Mana",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Mana"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "PassiveEventView": "PassiveEvent_Mana",
+    "PassiveEventName": "PickupMana"
+  },
+  "Test_PassiveEvent_ManaOfferingTable": {
+    "_assetId": "Test_PassiveEvent_ManaOfferingTable",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_ManaOfferingTable"
+    },
+    "_allowEventDetailsOverride": 1,
+    "_isEdgeEvent": 1,
+    "_destructiblePropDefinition": null,
+    "_overrideTileOffset": 1,
+    "_tileOffsetOverride": -0.097,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 1,
+      "LocalRotationOverride": {
+        "x": 30,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": "UI_Mana_Collision",
+    "PassiveEventView": "PassiveEvent_ManaOfferingTable",
+    "PassiveEventName": "ManaOfferingTable"
+  }
+}

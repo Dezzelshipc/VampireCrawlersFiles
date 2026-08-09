@@ -1,0 +1,5411 @@
+{
+  "EventLayer_CappellaMagna_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_25Fal1EyeE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15BG-T31GBE-T3"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_25Suc1SucE 1"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AEyeE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_10FalTh15BstD1BstDE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_25Suc1SucE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AEyeE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_01_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_13ArchD7FalTh5BstD1ArcE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1ABstDE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_25Suc1SucE 1"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AEyeE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_02_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_10FalTh15BstD1BstDE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15BG-T41GBE-T4"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AEyeE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_02_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_13ArchD7FalTh5BstD1ArcE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1ABstDE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_02_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_25Fal1EyeE 1"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_25Suc1SucE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1ABstDE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_CappellaMagna_02_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 0,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_1EnderP1"
+          },
+          "_shouldOverrideEventDetails": 0,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 0,
+    "_sideEvents": [],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 6,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Fi1FiE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_6Fi9Li1LiE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_21mie1MilkE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AFiE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Min1MinE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AFiE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_10Gol5AA1GolE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15Td1GHE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AMinE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_01_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15AA1GAKE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AMinE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_6Fi9Li1LiE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AFiE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_02_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Min1MinE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_21mie1MilkE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AFiE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_02_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_10Gol5AA1GolE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AMinE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_02_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15AA1GAKE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15Td1GHE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AMinE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_02_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 10,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Fi1GalE 1"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_Guardian3"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_GuardianCoffin"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGAKE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_03_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Min1MinE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AFiE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_03_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_10Gol5AA1GolE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_21mie1MilkE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AMinE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_03_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15AA1GAKE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AMinE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_03_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Fi1GalE 1"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15Td1GHE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGAKE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_DairyPlant_03_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 10,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_6Gol7AA2Gal1TriE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGAKE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_GalloTower_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 12,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Gi1DE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 5,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_ArcanaChoice"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_GalloF1_01",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_GalloTower_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 12,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_20Sc1GSE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15BG-T21GBE-T2"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_GalloF2_01",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_GalloF2_02",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_GalloTower_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 10,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Mid_20Ds1CFE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_Guardian4"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGSE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_GalloTower_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 9,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_20H1GCE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15H1HE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGSE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_GalloTower_01_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Mid_14As6Gi1MaE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGCE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_GalloTower_01_F6": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 0,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15H1HE wd"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGCE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 6,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15M1MME"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 6,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15E1EE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15B1GBE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 6,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_14Gh1LH1GhE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Gh1LHE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15AW1NE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGhE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_01_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Me1QME"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGhE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15E1EE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_02_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_14Gh1LH1GhE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15B1GBE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_02_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Gh1LHE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGhE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_02_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Me1QME"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15AW1NE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGhE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_02_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15AW1MWE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AQME"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_03_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_14Gh1LH1GhE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_Guardian2"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_03_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Gh1LHE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15B1GBE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGhE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_03_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15Me1QME"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AGhE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_03_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15AW1MWE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15AW1NE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AQME"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_InlaidLibrary_03_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_6B4M5Z1ME"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AQME"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_MadForest_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15B1BE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 1,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_MadForest_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15S31S3E"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 1,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 6,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 5,
+            "Probability": 0.8333333,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          },
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 0.16666667,
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_ArcanaChoice"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_MadForest_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Zombie"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15S31TBE 1"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 1,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_Crystal"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_MadForest_01_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 10,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15FW1ManE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 1,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_CardStatOfferingTable"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 6,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15S31S3E"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_02_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Mid_20S31ZE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15B1GBE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_02_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15FW1ManE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_02_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Mid_8Z5W7S31WE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15S31TBE 1"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AManE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_02_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Mid_10W10GM1GM"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AManE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_03_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Mid_20S31ZE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 3,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_FirstFloor",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_EvoStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_03_F2": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15FW1ManE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15B1GBE"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_PartyPower_Balanced",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_GemFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_03_F3": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Mid_8Z5W7S31WE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_Guardian1"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 4,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "DestructibleEventConfig_ManaStatue"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 1,
+            "<Weight>k__BackingField": 1,
+            "Probability": "Infinity",
+            "_eventConfigReference": {
+              "_assetId": "PassiveEvent_GemChest_Silver"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AManE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_03_F4": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 7,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_Mid_10W10GM1GM"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_15S31TBE 1"
+            },
+            "_shouldOverrideEventDetails": 1,
+            "_eventDetailsOverrideReference": {
+              "_assetId": "EventDetails_TreasureBoss"
+            },
+            "_isAmbush": 0
+          }
+        ]
+      }
+    ],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_DeckPower_ManaFavour",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Misc_PartyPower",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AManE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerMadForest_03_F5": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 8,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_10FW15FW1VenE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 2,
+    "_sideEvents": [
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      },
+      {
+        "_useDungeonChoicesConfig": 1,
+        "_dungeonChoiceConfig": "DungeonChoices_Chaos_Offering",
+        "_totalWeight": 0,
+        "_possibleDungeonEvents": []
+      }
+    ],
+    "_maxAmbushes": 1,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [
+      {
+        "_useDungeonChoicesConfig": 0,
+        "_dungeonChoiceConfig": null,
+        "_totalWeight": 1,
+        "_possibleDungeonEvents": [
+          {
+            "<IsGuaranteed>k__BackingField": 0,
+            "<Weight>k__BackingField": 1,
+            "Probability": 1,
+            "_eventConfigReference": {
+              "_assetId": "Encounter_1AManE"
+            },
+            "_shouldOverrideEventDetails": 0,
+            "_eventDetailsOverrideReference": {
+              "_assetId": null
+            },
+            "_isAmbush": 1
+          }
+        ]
+      }
+    ],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_Moongolow_teaser": {
+    "_shouldDrawDebug": 0,
+    "_targetTemplateEncounterNumber": 0,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "PassiveEvent_Dialogue_Moongolow"
+          },
+          "_shouldOverrideEventDetails": 0,
+          "_eventDetailsOverrideReference": {
+            "_assetId": null
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 0,
+    "_sideEvents": [],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_Test_AllEvents": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 0,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15B1BE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 0,
+    "_sideEvents": [],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_Test_GeneratedEncounters": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 10,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_TestEncounter_One1HealthBoss"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 0,
+    "_sideEvents": [],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerTinyBridge_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 4,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15BG1SwE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 0,
+    "_sideEvents": [],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerTinyBridge_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 12,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15aj1SWEL"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 0,
+    "_sideEvents": [],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayerTinyBridge_03_F1": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 12,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 1,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 0,
+          "<Weight>k__BackingField": 1,
+          "Probability": 1,
+          "_eventConfigReference": {
+            "_assetId": "Encounter_15aj1SWRE"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_EliteEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 0,
+    "_sideEvents": [],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  },
+  "EventLayer_Tutorial": {
+    "_shouldDrawDebug": 1,
+    "_targetTemplateEncounterNumber": 0,
+    "_bossEvent": {
+      "_useDungeonChoicesConfig": 0,
+      "_dungeonChoiceConfig": null,
+      "_totalWeight": 0,
+      "_possibleDungeonEvents": [
+        {
+          "<IsGuaranteed>k__BackingField": 1,
+          "<Weight>k__BackingField": 1,
+          "Probability": "Infinity",
+          "_eventConfigReference": {
+            "_assetId": "Encounter_GuardianTutorial"
+          },
+          "_shouldOverrideEventDetails": 1,
+          "_eventDetailsOverrideReference": {
+            "_assetId": "EventDetails_GuardianEncounter"
+          },
+          "_isAmbush": 0
+        }
+      ]
+    },
+    "_minibossEvents": [],
+    "_numberOfSideEventsToSpawn": 0,
+    "_sideEvents": [],
+    "_maxAmbushes": 0,
+    "_overrideAmbushChance": 0,
+    "_ambushChanceOverride": 0.01,
+    "_ambushEvents": [],
+    "_drawEventDistribution": 1,
+    "_progressDelay": 0
+  }
+}

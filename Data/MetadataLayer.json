@@ -1,0 +1,80 @@
+{
+  "MetaLayer_CappellaMagna_01_F5": {
+    "_shouldDrawDebug": 0,
+    "_roomTag": "Tag_Room",
+    "_corridorTag": "Tag_Corridor",
+    "_prioritySpawnTag": null,
+    "_offPathDifficultyInitialScale": 0.75,
+    "_offPathDifficultyMaxScale": 0.9,
+    "_maximumValidPathSegmentLength": 4,
+    "_drawMainPathDebug": 0,
+    "_drawPOIDebug": 0,
+    "_drawPathSegmentsDebug": 1,
+    "_progressDelay": 0
+  },
+  "MetaLayer_CappellaMagna_Shared": {
+    "_shouldDrawDebug": 0,
+    "_roomTag": "Tag_Room",
+    "_corridorTag": "Tag_Corridor",
+    "_prioritySpawnTag": null,
+    "_offPathDifficultyInitialScale": 0.75,
+    "_offPathDifficultyMaxScale": 0.9,
+    "_maximumValidPathSegmentLength": 4,
+    "_drawMainPathDebug": 0,
+    "_drawPOIDebug": 0,
+    "_drawPathSegmentsDebug": 1,
+    "_progressDelay": 0
+  },
+  "MetaLayer_GalloTower_Shared": {
+    "_shouldDrawDebug": 1,
+    "_roomTag": "Tag_Room",
+    "_corridorTag": "Tag_Corridor",
+    "_prioritySpawnTag": "Tag_Spawn",
+    "_offPathDifficultyInitialScale": 0.75,
+    "_offPathDifficultyMaxScale": 0.9,
+    "_maximumValidPathSegmentLength": 4,
+    "_drawMainPathDebug": 1,
+    "_drawPOIDebug": 0,
+    "_drawPathSegmentsDebug": 1,
+    "_progressDelay": 0
+  },
+  "MetadataLayer": {
+    "_shouldDrawDebug": 1,
+    "_roomTag": "Tag_Room",
+    "_corridorTag": "Tag_Corridor",
+    "_prioritySpawnTag": "Tag_Spawn",
+    "_offPathDifficultyInitialScale": 0.75,
+    "_offPathDifficultyMaxScale": 0.9,
+    "_maximumValidPathSegmentLength": 5,
+    "_drawMainPathDebug": 1,
+    "_drawPOIDebug": 1,
+    "_drawPathSegmentsDebug": 1,
+    "_progressDelay": 0
+  },
+  "MetadataLayer_TinyBridge_02_F1": {
+    "_shouldDrawDebug": 1,
+    "_roomTag": "Tag_Room",
+    "_corridorTag": "Tag_Corridor",
+    "_prioritySpawnTag": null,
+    "_offPathDifficultyInitialScale": 0.75,
+    "_offPathDifficultyMaxScale": 0.9,
+    "_maximumValidPathSegmentLength": 10,
+    "_drawMainPathDebug": 1,
+    "_drawPOIDebug": 1,
+    "_drawPathSegmentsDebug": 1,
+    "_progressDelay": 0
+  },
+  "MetadataLayer_TinyBridge_03_F1": {
+    "_shouldDrawDebug": 1,
+    "_roomTag": "Tag_Room",
+    "_corridorTag": "Tag_Corridor",
+    "_prioritySpawnTag": null,
+    "_offPathDifficultyInitialScale": 0.75,
+    "_offPathDifficultyMaxScale": 0.9,
+    "_maximumValidPathSegmentLength": 10,
+    "_drawMainPathDebug": 1,
+    "_drawPOIDebug": 1,
+    "_drawPathSegmentsDebug": 1,
+    "_progressDelay": 0
+  }
+}

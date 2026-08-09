@@ -1,0 +1,98 @@
+{
+  "DestructibleEventConfig_AbandonedCart": {
+    "_assetId": "DestructibleEventConfig_AbandonedCart",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Empty"
+    },
+    "_allowEventDetailsOverride": 0,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": "Shared_DestructibleCart",
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "DestructibleEventName": "AbandonedCart",
+    "_requireNonExitEdge": 1
+  },
+  "DestructibleEventConfig_AbandonedCart_AlwaysMana": {
+    "_assetId": "DestructibleEventConfig_AbandonedCart_AlwaysMana",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Empty"
+    },
+    "_allowEventDetailsOverride": 0,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": "Shared_DestructibleCart_AlwaysMana",
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "DestructibleEventName": "AbandonedCart",
+    "_requireNonExitEdge": 0
+  },
+  "DestructibleEventConfig_EvoStatue": {
+    "_assetId": "DestructibleEventConfig_EvoStatue",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Empty"
+    },
+    "_allowEventDetailsOverride": 0,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": "Shared_DestructibleEvoStatue",
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "DestructibleEventName": "EvoStatue",
+    "_requireNonExitEdge": 1
+  },
+  "DestructibleEventConfig_ManaStatue": {
+    "_assetId": "DestructibleEventConfig_ManaStatue",
+    "_defaultEventDetailsReference": {
+      "_assetId": "EventDetails_Empty"
+    },
+    "_allowEventDetailsOverride": 0,
+    "_isEdgeEvent": 0,
+    "_destructiblePropDefinition": "Shared_DestructibleManaStatue",
+    "_overrideTileOffset": 0,
+    "_tileOffsetOverride": 0,
+    "_overriddenCameraSettings": {
+      "OverrideLocalRotation": 0,
+      "LocalRotationOverride": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "OverrideCameraFOV": 0,
+      "FOVOverride": 0
+    },
+    "_edgeEventBumpSFX": null,
+    "DestructibleEventName": "ManaStatue",
+    "_requireNonExitEdge": 1
+  }
+}
